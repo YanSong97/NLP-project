@@ -6,5 +6,10 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## Coursework instruction: [Link](https://docs.google.com/document/d/1WTKNrYTr-7ckw62WAqy21-9udEMIpll4bWM5lmgpHZI/edit)
 
+## Some useful webset
+
+* [Figure-eight](https://www.figure-eight.com/data-for-everyone/)---dataset, not that good
+* [niderhoff](https://github.com/niderhoff/nlp-datasets) ----NLP dataset
+* [Browse State-of-the-Art](https://paperswithcode.com/sota) ---SOTA model and methods
 
 
