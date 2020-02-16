@@ -9,7 +9,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## Relavant publications 
 * [Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/pdf/1810.06667.pdf) ---Yaser et al.(2019), [code](https://github.com/yaserkl/TransferRL)
 * [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf) ---Siyao et al.(2019)
-* [A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION] ---Paulus et al.(2017), [code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION), [other implementations](https://paperswithcode.com/paper/a-deep-reinforced-model-for-abstractive)
+* [A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION](https://arxiv.org/pdf/1705.04304.pdf) ---Paulus et al.(2017), [code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION), [other implementations](https://paperswithcode.com/paper/a-deep-reinforced-model-for-abstractive)
 
 ## Relavant datasets
 * CNN-Daily dataset ---[helper codes](https://github.com/yaserkl/TransferRL/tree/master/src/helper)
