@@ -23,6 +23,6 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [niderhoff](https://github.com/niderhoff/nlp-datasets) ---NLP dataset
 * [Browse State-of-the-Art](https://paperswithcode.com/sota) ---SOTA model and methods
 * [text_summurization_abstractive_methods](https://github.com/theamrzaki/text_summurization_abstractive_methods) ---This repo is built to collect multiple implementations for abstractive approaches to address text summarization
-* [Comprehensive Summary of *summarisation in NLP*](https://github.com/mathsyouth/awesome-text-summarization) ---This repo contains summarisation relevant *dataset*, *word embedding method*, *sequence embedding method*, etc, will be a good guide when we do background research and get hint about how to improve our methods. 
+* [Comprehensive Research Summary of *summarisation in NLP*](https://github.com/mathsyouth/awesome-text-summarization) ---This repo contains summarisation relevant *dataset*, *word embedding method*, *sequence embedding method*, etc, will be a good guide when we do background research and get hint about how to improve our methods. 
 
 
