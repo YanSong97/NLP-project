@@ -27,7 +27,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## Useful Resource for Writing Paper
 
-* [Styling plots for publication with matplotlib](https://jonchar.net/notebooks/matplotlib-styling/)
+* [Styling plots for publication with matplotlib](https://jonchar.net/notebooks/matplotlib-styling/) - how to use matplotlib much cooler
 
 
 
