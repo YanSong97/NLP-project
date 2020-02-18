@@ -25,4 +25,10 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [text_summurization_abstractive_methods](https://github.com/theamrzaki/text_summurization_abstractive_methods) ---This repo is built to collect multiple implementations for abstractive approaches to address text summarization
 * [Comprehensive Research Summary of *summarisation in NLP*](https://github.com/mathsyouth/awesome-text-summarization) ---This repo contains summarisation relevant *dataset*, *word embedding method*, *sequence embedding method*, etc, will be a good guide when we do background research and get hint about how to improve our methods. 
 
+## Useful Resource for Writing Paper
+
+* [Styling plots for publication with matplotlib](https://jonchar.net/notebooks/matplotlib-styling/)
+
+
+
 
