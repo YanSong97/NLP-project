@@ -6,6 +6,8 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## Coursework instruction: [Link](https://docs.google.com/document/d/1WTKNrYTr-7ckw62WAqy21-9udEMIpll4bWM5lmgpHZI/edit)
 
+## Draft report: [Overleaf](https://www.overleaf.com/4132129557qqknqswkmmwj)
+
 ## Relavant publications 
 * [Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/pdf/1810.06667.pdf) ---Yaser et al.(2019), [code](https://github.com/yaserkl/TransferRL)
 * [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf) ---Siyao et al.(2019)
