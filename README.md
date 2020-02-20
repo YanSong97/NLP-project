@@ -24,6 +24,9 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [Browse State-of-the-Art](https://paperswithcode.com/sota) ---SOTA model and methods
 * [text_summurization_abstractive_methods](https://github.com/theamrzaki/text_summurization_abstractive_methods) ---This repo is built to collect multiple implementations for abstractive approaches to address text summarization
 * [Comprehensive Research Summary of *summarisation in NLP*](https://github.com/mathsyouth/awesome-text-summarization) ---This repo contains summarisation relevant *dataset*, *word embedding method*, *sequence embedding method*, etc, will be a good guide when we do background research and get hint about how to improve our methods. 
+* [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp) ---Four steps strategy for deeplearning with text, examples attached.
+
+
 
 ## Advices from Jiang, Minqi
 
