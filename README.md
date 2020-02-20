@@ -41,6 +41,9 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 * [Styling plots for publication with matplotlib](https://jonchar.net/notebooks/matplotlib-styling/) - how to use matplotlib much cooler
 
+## Useful Recource for Experiment
+
+* [ROUGE evaluation](https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.Xk54bRP7RQI) ---sets of metric for evaluating Abstrative Summarisation result.
 
 
 
