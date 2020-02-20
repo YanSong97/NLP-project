@@ -38,14 +38,13 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [Basic RL algorithm](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspinningup.openai.com%2Fen%2Flatest%2Fspinningup%2Frl_intro2.html&data=02%7C01%7C%7Ca9283f0035d84c5f253408d7b5809c2c%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637177436287831455&sdata=rejITU1AhX1g9WGSruzZq%2FicFEu3nBINpy6Xy9nnIX8%3D&reserved=0)
 * [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
+## Useful Recource for Experiment
+
+* [ROUGE evaluation](https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.Xk54bRP7RQI) ---sets of metric for evaluating Abstrative Summarisation result.
 
 ## Useful Resource for Writing Paper
 
 * [Styling plots for publication with matplotlib](https://jonchar.net/notebooks/matplotlib-styling/) - how to use matplotlib much cooler
-
-## Useful Recource for Experiment
-
-* [ROUGE evaluation](https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.Xk54bRP7RQI) ---sets of metric for evaluating Abstrative Summarisation result.
 
 
 
