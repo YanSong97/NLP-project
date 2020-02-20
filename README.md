@@ -41,6 +41,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## Useful Recource for Experiment
 
 * [ROUGE evaluation](https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.Xk54bRP7RQI) ---sets of metric for evaluating Abstrative Summarisation result.
+* [Code for attention-based summarisation](https://github.com/facebookarchive/NAMAS) ----Neural Attention Model for Abstractive Summarization, Github.
 
 ## Useful Resource for Writing Paper
 
