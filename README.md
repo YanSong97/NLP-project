@@ -42,7 +42,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 * [ROUGE evaluation](https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.Xk54bRP7RQI) ---sets of metric for evaluating Abstrative Summarisation result.
 * [Code for attention-based summarisation](https://github.com/facebookarchive/NAMAS) ----[Neural Attention Model for Abstractive Summarization](https://arxiv.org/pdf/1509.00685.pdf), Github.
-* [Text Summarization models](https://github.com/theamrzaki/text_summurization_abstractive_methods)
+* [Text Summarization models](https://github.com/theamrzaki/text_summurization_abstractive_methods) ---With tutorials!
 * [Text-Summarizer-Pytorch](https://github.com/rohithreddy024/Text-Summarizer-Pytorch) ---I tried this one but failed to write the data into binary file.
 * [Ocean!](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION) ---NMT means Neural Machine Translation...
 
