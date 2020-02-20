@@ -11,6 +11,9 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf) ---Siyao et al.(2019)
 * [A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION](https://arxiv.org/pdf/1705.04304.pdf) ---Paulus et al.(2017), [code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION), [other implementations](https://paperswithcode.com/paper/a-deep-reinforced-model-for-abstractive)
 
+## Not that relavant but very fundamental and useful publications
+* [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) ---Sutskever et al., 2014.  Encoder-Decoder Network.
+
 ## Relavant datasets
 * CNN-Daily dataset ---[helper codes](https://github.com/yaserkl/TransferRL/tree/master/src/helper)
 * Newsroom dataset ---[helper codes](https://github.com/yaserkl/TransferRL/tree/master/src/helper)
