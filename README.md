@@ -25,7 +25,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [text_summurization_abstractive_methods](https://github.com/theamrzaki/text_summurization_abstractive_methods) ---This repo is built to collect multiple implementations for abstractive approaches to address text summarization
 * [Comprehensive Research Summary of *summarisation in NLP*](https://github.com/mathsyouth/awesome-text-summarization) ---This repo contains summarisation relevant *dataset*, *word embedding method*, *sequence embedding method*, etc, will be a good guide when we do background research and get hint about how to improve our methods. 
 * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp) ---Four steps strategy for deeplearning with text, examples attached.
-
+* [Encoder-Decoder Sequence to Sequence Model](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346) ---An explaination of Encoder-Decoder model in machine translation.
 
 
 ## Advices from Jiang, Minqi
