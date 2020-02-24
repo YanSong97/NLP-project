@@ -6,7 +6,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## Coursework instruction: [Link](https://docs.google.com/document/d/1WTKNrYTr-7ckw62WAqy21-9udEMIpll4bWM5lmgpHZI/edit)
 
-## Draft report: [Overleaf](https://www.overleaf.com/4132129557qqknqswkmmwj)
+## Draft report: [Overleaf](https://www.overleaf.com/project/5e4eed8fc806ef0001bfac1a)
 
 ## Relavant publications 
 * [Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/pdf/1810.06667.pdf) ---Yaser et al.(2019), [code](https://github.com/yaserkl/TransferRL)
