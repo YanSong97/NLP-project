@@ -12,6 +12,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 * [Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/pdf/1810.06667.pdf) ---Yaser et al.(2019), [code](https://github.com/yaserkl/TransferRL)
 * [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf) ---Siyao et al.(2019)
 * [A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION](https://arxiv.org/pdf/1705.04304.pdf) ---Paulus et al.(2017), [code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION), [other implementations](https://paperswithcode.com/paper/a-deep-reinforced-model-for-abstractive)
+* [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/pdf/1805.11080.pdf), [code](https://github.com/ChenRocks/fast_abs_rl)
 
 ## Not that relavant but very fundamental and useful publications
 * [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) ---Sutskever et al., 2014.  Encoder-Decoder Network.
