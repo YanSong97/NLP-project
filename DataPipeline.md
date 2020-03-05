@@ -1,6 +1,18 @@
-### Comment on how to make binary data file from raw txt data
+## Comment on how to make binary data file from raw txt data
 
 refer to [`rohithreddy024/Text-Summarizer-Pytorch/make_data_files.py`](https://github.com/rohithreddy024/Text-Summarizer-Pytorch/blob/master/make_data_files.py)
+
+### Summary of output:
+
+file `data/unfinished` : contains original training/valid/test txt data **plus** shuffled training/valid/test data.
+file `data/finished` : contains binary file of training/valid/test txt data,refering to `train.bin`, `valid.bin`, `test.bin`
+file `data/chunked` :
+- `data/chunked/train` : chunked files of `train.bin`
+- `data/chunked/main_valid` : chunked files of `valid.bin`
+- `data/chunked/main_test` : chunked files of `test.bin`
+- `data/chunked/test` : sampled single test bin file `test_00.bin` (from `data/chunked/main_valid`) 
+- `data/chunked/valid` : sampled single valid bin file `valid_00.bin` (from `data/chunked/main_valid`) 
+
 
 #### Required Paths 
 
