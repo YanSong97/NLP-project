@@ -7,6 +7,17 @@ refer to [`rohithreddy024/Text-Summarizer-Pytorch/make_data_files.py`](https://g
 There are 3 paths required to be stated at the begining of the codes `finished_path`, `unfinished_path` and `chunk_path`.
 In the sample codes uploaded, I use my own repository but you can change it to yours. You have to upload the data into `data/unfinished` file. But for the rest two, `data/finished` and `data/chunked`, you dont have to create the file, the codes will create for you! 
 
+#### File Name convention
+
+From this part of the codes, you can modify the file name shown below to your own naming. This part does shuffling of the data for you and then convert into bin file. 
+
+```python
+shuffle_text_data("train.article.txt", "train.title.txt", "train.art.shuf.txt", "train.abs.shuf.txt")
+    shuffle_text_data("valid.article.filter.txt", "valid.title.filter.txt", "valid.art.shuf.txt", "valid.abs.shuf.txt")
+    shuffle_text_data("test.article.filter.txt", "test.title.filter.txt", "test.art.shuf.txt", "test.abs.shuf.txt")
+    print("Completed shuffling train & valid & test text files")
+```
+
 #### Where do we collect our vocabulary from? 
 
 The codes first collect all volcabulary from the training ariticle file and training summary file. And pick up the most common `VOCAB_SIZE = 200000` words as our finalised vocabulary. We could modify this size by ourselves. 
