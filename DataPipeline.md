@@ -1,6 +1,6 @@
-### Comment on [how to make binary data file from raw txt data](https://github.com/rohithreddy024/Text-Summarizer-Pytorch/blob/master/make_data_files.py)
+### Comment on how to make binary data file from raw txt data
 
-refer to `rohithreddy024/Text-Summarizer-Pytorch/make_data_files.py`
+refer to [`rohithreddy024/Text-Summarizer-Pytorch/make_data_files.py`](https://github.com/rohithreddy024/Text-Summarizer-Pytorch/blob/master/make_data_files.py)
 
 #### Required Paths 
 
