@@ -19,7 +19,7 @@ file `data/chunked` :
 #### Required Paths 
 
 There are 3 paths required to be stated at the begining of the codes `finished_path`, `unfinished_path` and `chunk_path`.
-In the sample codes uploaded, I use my own repository but you can change it to yours. You have to upload the data into `data/unfinished` file. But for the rest two, `data/finished` and `data/chunked`, you dont have to create the file, the codes will create for you! 
+In the sample codes uploaded, I use my own working directory but you can change it to yours. You have to upload the data into `data/unfinished` file. But for the rest two, `data/finished` and `data/chunked`, you dont have to create the file, the codes will create for you! 
 
 #### File Name convention
 
