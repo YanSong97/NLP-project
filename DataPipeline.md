@@ -5,7 +5,9 @@ refer to [`YanSong97/NLP-project/blob/youning/make_data_files.py`](https://githu
 ### Summary of output:
 
 file `data/unfinished` : contains original training/valid/test txt data **plus** shuffled training/valid/test data.
+
 file `data/finished` : contains binary file of training/valid/test txt data,refering to `train.bin`, `valid.bin`, `test.bin`
+
 file `data/chunked` :
 - `data/chunked/train` : chunked files of `train.bin`
 - `data/chunked/main_valid` : chunked files of `valid.bin`
