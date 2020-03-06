@@ -13,9 +13,9 @@
 - **test**: 32,739 (5%)
 
 `WikiHow`: 
-- **train**: 
-- **valid**:
-- **test**: 
+- **train**: 161,881
+- **valid**: 9,004
+- **test**: 9,243
 
 `BigPatent`:
 - **train**(all): 1,207,222  --> 603,611 
