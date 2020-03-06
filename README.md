@@ -20,7 +20,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## Relavant datasets
 * CNN-Daily dataset ---[helper codes](https://github.com/yaserkl/TransferRL/tree/master/src/helper)
 * Newsroom dataset ---[helper codes](https://github.com/yaserkl/TransferRL/tree/master/src/helper)
-* WikiHow dataset ---[paper](https://arxiv.org/pdf/1810.09305.pdf), [data](https://github.com/mahnazkoupaee/WikiHow-Dataset), [Processed .txt data ](https://drive.google.com/drive/folders/1_8s_A0OC5153gktx6dSbzLh02QJtI9LS?usp=sharing),[bin file (chunk 2000, vocab 200000) ](https://drive.google.com/drive/folders/1oaYyf3NPYYbrnJCRXt6OAb4ngAX8UsTZ?usp=sharing)
+* WikiHow dataset ---[paper](https://arxiv.org/pdf/1810.09305.pdf), [data](https://github.com/mahnazkoupaee/WikiHow-Dataset), [Processed txt data](https://drive.google.com/drive/folders/1_8s_A0OC5153gktx6dSbzLh02QJtI9LS?usp=sharing), [bin file (chunk 2000, vocab 200000) ](https://drive.google.com/drive/folders/1oaYyf3NPYYbrnJCRXt6OAb4ngAX8UsTZ?usp=sharing)
 * BigPatent dataset ---[paper](https://arxiv.org/pdf/1906.03741.pdf), [data](https://evasharma.github.io/bigpatent/)
 
 ## Some useful webset
