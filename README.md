@@ -10,6 +10,11 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## WikiHow data pre_trained model (ML for 10,000 iterations): [LINK](https://drive.google.com/drive/folders/1Yg5z4ixRVj-AZK2F7qXULb6YzsS_OTjj?usp=sharing)
 
+## WikiHow Vocab file: [LINK](https://drive.google.com/file/d/1t6Nh8GTylnkU6naUqbGx0oVxcBe-dJie/view?usp=sharing)
+
+## WikiHow validation data: [LINK](https://drive.google.com/file/d/1Ew2amhF3pJsC_BWmYdC3VdJXnePVQk2q/view?usp=sharing)
+
+
 ## Relavant publications 
 * [Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/pdf/1810.06667.pdf) ---Yaser et al.(2019), [code](https://github.com/yaserkl/TransferRL)
 * [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf) ---Siyao et al.(2019)
