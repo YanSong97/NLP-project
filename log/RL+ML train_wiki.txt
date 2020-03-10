@@ -78,6 +78,9 @@ Scores: {'rouge-1': {'f': 0.2808970593237494, 'p': 0.561698630848553, 'r': 0.208
 0011400.tar rouge_l: 0.2106
 Scores: {'rouge-1': {'f': 0.27476366082933334, 'p': 0.5621197740858713, 'r': 0.20296256144475203}, 'rouge-2': {'f': 0.12401053883218939, 'p': 0.2610873012575891, 'r': 0.09236916265308982}, 'rouge-l': {'f': 0.21064906554584326, 'p': 0.5531148323663012, 'r': 0.1993136192586724}}
 
+##Note that I accidentally somehow mixed the validating with training and I am not sure the rouge values above are correct, but the rouge values below is run seperately so they should be fine.
+
+
 
 
 
