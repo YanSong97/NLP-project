@@ -20,6 +20,44 @@ iter: 12000 mle_loss: 0.000 reward: 0.3100
 
 iter: 12200 mle_loss: 0.000 reward: 0.3106
 
+iter: 12400 mle_loss: 0.000 reward: 0.3056
+
+iter: 12600 mle_loss: 0.000 reward: 0.3080
+
+iter: 12800 mle_loss: 0.000 reward: 0.3095
+
+iter: 13000 mle_loss: 0.000 reward: 0.3097
+
+iter: 13200 mle_loss: 0.000 reward: 0.3054
+
+iter: 13400 mle_loss: 0.000 reward: 0.3076
+
+iter: 13600 mle_loss: 0.000 reward: 0.3101
+
+iter: 13800 mle_loss: 0.000 reward: 0.3134
+
+iter: 14000 mle_loss: 0.000 reward: 0.3097
+
+iter: 14200 mle_loss: 0.000 reward: 0.3195
+
+iter: 14400 mle_loss: 0.000 reward: 0.3175
+
+iter: 14600 mle_loss: 0.000 reward: 0.3144
+
+iter: 14800 mle_loss: 0.000 reward: 0.3135
+
+iter: 15000 mle_loss: 0.000 reward: 0.3091
+
+iter: 15200 mle_loss: 0.000 reward: 0.3125
+
+iter: 15400 mle_loss: 0.000 reward: 0.3092
+
+iter: 15600 mle_loss: 0.000 reward: 0.3160
+
+iter: 15800 mle_loss: 0.000 reward: 0.3083
+
+iter: 16000 mle_loss: 0.000 reward: 0.3084
+
 
 Validation:
 0010200.tar rouge_l: 0.2450
