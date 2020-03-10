@@ -19,3 +19,8 @@ iter: 11800 mle_loss: 0.000 reward: 0.2979
 iter: 12000 mle_loss: 0.000 reward: 0.3100
 
 iter: 12200 mle_loss: 0.000 reward: 0.3106
+
+
+Validation:
+0010200.tar rouge_l: 0.2450
+
