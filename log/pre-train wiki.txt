@@ -102,62 +102,31 @@ iter: 10000 mle_loss: 3.643
 Validation:
 
 ##000500 - 001000##
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
-example_generator completed reading all datafiles. No more data.
-INFO:tensorflow:The example generator for this example queue filling thread has exhausted data.
-INFO:tensorflow:single_pass mode is on, so we've finished reading dataset. This thread is stopping.
-/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:207: DeprecationWarning: generator 'Batcher.text_generator' raised StopIteration
-INFO:tensorflow:Finished reading dataset in single_pass mode.
+
 0005000.tar rouge_l: 0.1943
 Scores: {'rouge-1': {'f': 0.25894659680851323, 'p': 0.5679066184237384, 'r': 0.1868959209607805}, 'rouge-2': {'f': 0.11026353433926886, 'p': 0.24200041600688907, 'r': 0.08104104324672093}, 'rouge-l': {'f': 0.19430425912278565, 'p': 0.5581820664396239, 'r': 0.18344028746729737}}
 
 
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
-example_generator completed reading all datafiles. No more data.
-INFO:tensorflow:The example generator for this example queue filling thread has exhausted data.
-INFO:tensorflow:single_pass mode is on, so we've finished reading dataset. This thread is stopping.
-INFO:tensorflow:Finished reading dataset in single_pass mode.
+
 0006000.tar rouge_l: 0.1905
 Scores: {'rouge-1': {'f': 0.25451485387525613, 'p': 0.5645049794220292, 'r': 0.183033467760598}, 'rouge-2': {'f': 0.11159233344464754, 'p': 0.2556459410893575, 'r': 0.08123615151727691}, 'rouge-l': {'f': 0.19054150845324394, 'p': 0.5563472978725967, 'r': 0.18004740719850115}}
 
 
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
-example_generator completed reading all datafiles. No more data.
-INFO:tensorflow:The example generator for this example queue filling thread has exhausted data.
-INFO:tensorflow:single_pass mode is on, so we've finished reading dataset. This thread is stopping.
-INFO:tensorflow:Finished reading dataset in single_pass mode.
+
 0007000.tar rouge_l: 0.1860
 Scores: {'rouge-1': {'f': 0.24993260787223548, 'p': 0.554429972921894, 'r': 0.17779873053218628}, 'rouge-2': {'f': 0.10809690954282411, 'p': 0.24790305932577772, 'r': 0.07751315879875312}, 'rouge-l': {'f': 0.1859943445025016, 'p': 0.5467755903527777, 'r': 0.17520053850058193}}
 
 
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
-example_generator completed reading all datafiles. No more data.
-INFO:tensorflow:The example generator for this example queue filling thread has exhausted data.
-INFO:tensorflow:single_pass mode is on, so we've finished reading dataset. This thread is stopping.
-INFO:tensorflow:Finished reading dataset in single_pass mode.
+
 0008000.tar rouge_l: 0.2067
 Scores: {'rouge-1': {'f': 0.27110108595464594, 'p': 0.5637427446119501, 'r': 0.19901729811609925}, 'rouge-2': {'f': 0.11896205259713678, 'p': 0.2544188642504002, 'r': 0.08830092895217077}, 'rouge-l': {'f': 0.20668146043762142, 'p': 0.5546170207489572, 'r': 0.19545037816688995}}
 
 
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
-example_generator completed reading all datafiles. No more data.
-INFO:tensorflow:The example generator for this example queue filling thread has exhausted data.
-INFO:tensorflow:single_pass mode is on, so we've finished reading dataset. This thread is stopping.
-INFO:tensorflow:Finished reading dataset in single_pass mode.
+
 0009000.tar rouge_l: 0.2052
 Scores: {'rouge-1': {'f': 0.27367858306182535, 'p': 0.5791651777587772, 'r': 0.19572097113721643}, 'rouge-2': {'f': 0.12288876982481384, 'p': 0.27287448846402296, 'r': 0.08783536056951666}, 'rouge-l': {'f': 0.20522095345260305, 'p': 0.5705306299154129, 'r': 0.19263605592228297}}
 
 
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
-example_generator completed reading all datafiles. No more data.
-INFO:tensorflow:The example generator for this example queue filling thread has exhausted data.
-INFO:tensorflow:single_pass mode is on, so we've finished reading dataset. This thread is stopping.
-INFO:tensorflow:Finished reading dataset in single_pass mode.
+
 0010000.tar rouge_l: 0.2054
 Scores: {'rouge-1': {'f': 0.26942784087013105, 'p': 0.5600995555706454, 'r': 0.1972846710947461}, 'rouge-2': {'f': 0.12012697219715622, 'p': 0.2615896324476405, 'r': 0.08833181253794935}, 'rouge-l': {'f': 0.2053696263589044, 'p': 0.551297553165345, 'r': 0.19397785481744917}}
