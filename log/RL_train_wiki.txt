@@ -1,0 +1,21 @@
+iter: 10200 mle_loss: 0.000 reward: 0.2277
+
+iter: 10400 mle_loss: 0.000 reward: 0.2372
+
+iter: 10600 mle_loss: 0.000 reward: 0.2618
+
+iter: 10800 mle_loss: 0.000 reward: 0.2662
+
+iter: 11000 mle_loss: 0.000 reward: 0.2815
+
+iter: 11200 mle_loss: 0.000 reward: 0.2920
+
+iter: 11400 mle_loss: 0.000 reward: 0.2937
+
+iter: 11600 mle_loss: 0.000 reward: 0.3015
+
+iter: 11800 mle_loss: 0.000 reward: 0.2979
+
+iter: 12000 mle_loss: 0.000 reward: 0.3100
+
+iter: 12200 mle_loss: 0.000 reward: 0.3106
