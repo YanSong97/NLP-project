@@ -10,14 +10,16 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## WikiHow data pre_trained model (ML for 10,000 iterations): [LINK](https://drive.google.com/drive/folders/1Yg5z4ixRVj-AZK2F7qXULb6YzsS_OTjj?usp=sharing)
 
+## WikiHow trunked training files: [LINK](https://drive.google.com/drive/folders/1r-gApimxibJfU2tiOxhWkkPTr5CZD7iQ?usp=sharing)
+
 ## WikiHow Vocab file: [LINK](https://drive.google.com/file/d/1t6Nh8GTylnkU6naUqbGx0oVxcBe-dJie/view?usp=sharing)
 
 ## WikiHow validation data: [LINK](https://drive.google.com/file/d/1Ew2amhF3pJsC_BWmYdC3VdJXnePVQk2q/view?usp=sharing)
 
 ## Some colab notebook we can run to get result:
-1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)
+1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
 
-2. ....
+2. Continue training the ML model using the same pre-trained model: [colab link](https://colab.research.google.com/drive/1fZ-tlDHAyU0tL3va5VNeXBp4A2d1t0d3)
 
 3. ...
 
