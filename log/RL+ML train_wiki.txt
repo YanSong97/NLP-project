@@ -1,0 +1,50 @@
+iter: 10200 mle_loss: 3.642 reward: 0.2155
+
+iter: 10400 mle_loss: 3.604 reward: 0.2170
+
+iter: 10600 mle_loss: 3.571 reward: 0.2157
+
+iter: 10800 mle_loss: 3.550 reward: 0.2199
+
+iter: 11000 mle_loss: 3.560 reward: 0.2193
+
+iter: 11200 mle_loss: 3.607 reward: 0.2210
+
+iter: 11400 mle_loss: 3.582 reward: 0.2212
+
+iter: 11600 mle_loss: 3.564 reward: 0.2243
+
+iter: 11800 mle_loss: 3.539 reward: 0.2220
+
+iter: 12000 mle_loss: 3.526 reward: 0.2228
+
+iter: 12200 mle_loss: 3.559 reward: 0.2208
+
+iter: 12400 mle_loss: 3.528 reward: 0.2235
+
+iter: 12600 mle_loss: 3.525 reward: 0.2243
+
+iter: 12800 mle_loss: 3.464 reward: 0.2244
+
+iter: 13000 mle_loss: 3.500 reward: 0.2238
+
+iter: 13200 mle_loss: 3.537 reward: 0.2226
+
+iter: 13400 mle_loss: 3.531 reward: 0.2214
+
+iter: 13600 mle_loss: 3.543 reward: 0.2218
+
+iter: 13800 mle_loss: 3.543 reward: 0.2236
+
+iter: 14000 mle_loss: 3.494 reward: 0.2262
+
+iter: 14200 mle_loss: 3.547 reward: 0.2244
+
+iter: 14400 mle_loss: 3.535 reward: 0.2235
+
+
+
+
+
+
+
