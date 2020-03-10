@@ -14,6 +14,15 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## WikiHow validation data: [LINK](https://drive.google.com/file/d/1Ew2amhF3pJsC_BWmYdC3VdJXnePVQk2q/view?usp=sharing)
 
+## Some colab notebook we can run to get result:
+1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)
+
+2. ....
+
+3. ...
+
+
+
 
 ## Relavant publications 
 * [Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/pdf/1810.06667.pdf) ---Yaser et al.(2019), [code](https://github.com/yaserkl/TransferRL)
