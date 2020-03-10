@@ -42,6 +42,22 @@ iter: 14200 mle_loss: 3.547 reward: 0.2244
 
 iter: 14400 mle_loss: 3.535 reward: 0.2235
 
+iter: 14600 mle_loss: 3.564 reward: 0.2225
+
+iter: 14800 mle_loss: 3.456 reward: 0.2258
+
+iter: 15000 mle_loss: 3.453 reward: 0.2305
+
+iter: 15200 mle_loss: 3.533 reward: 0.2238
+
+iter: 15400 mle_loss: 3.568 reward: 0.2250
+
+iter: 15600 mle_loss: 3.547 reward: 0.2235
+
+iter: 15800 mle_loss: 3.470 reward: 0.2231
+
+iter: 16000 mle_loss: 3.474 reward: 0.2248
+
 
 
 
