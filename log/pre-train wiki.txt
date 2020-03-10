@@ -99,4 +99,6 @@ iter: 9800 mle_loss: 3.691
 iter: 10000 mle_loss: 3.643
 
 
+Validation:
+
 
