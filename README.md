@@ -20,6 +20,10 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 # BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
 
+
+## CNN train/valid/test/vocab files:  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
+
+
 ## Some colab notebook we can run to get result:
 1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
 
