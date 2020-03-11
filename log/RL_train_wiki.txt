@@ -78,5 +78,3 @@ Scores: {'rouge-1': {'f': 0.31434338375750626, 'p': 0.5650824947178109, 'r': 0.2
 
 0011200.tar rouge_l: 0.2505
 Scores: {'rouge-1': {'f': 0.315518264914267, 'p': 0.5717428488505765, 'r': 0.2438149201136874}, 'rouge-2': {'f': 0.13819465740787962, 'p': 0.25827141271036574, 'r': 0.10853936095010348}, 'rouge-l': {'f': 0.25051726443470096, 'p': 0.5615105647960571, 'r': 0.23940557469851376}}
-max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
-Finished constructing vocabulary of 20000 total words. Last word added: declared
