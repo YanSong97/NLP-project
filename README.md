@@ -26,8 +26,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## CNN train/valid/test/vocab files:  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
 
 -----------------------------------Gigaword-------------------------------------------------------------------------------
-## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/13STf3Sodtx3g2O9-A55cVGmpr3C-vlXR/view?usp=sharing)
-
+## Gigaword pre-trained model (ML): preparing
 ## Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
 
 
