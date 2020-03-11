@@ -28,16 +28,16 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 -----------------------------------Gigaword-------------------------------------------------------------------------------
 ## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/13STf3Sodtx3g2O9-A55cVGmpr3C-vlXR/view?usp=sharing)
 
-## Gigaword data:
+## Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
 
 
-
+-----------------------------------Colab Notebooks---------------------------------------------------------------------------
 ## Some colab notebook we can run to get result:
 1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
 
 2. Continue training the ML model using the same pre-trained model: [colab link](https://colab.research.google.com/drive/1fZ-tlDHAyU0tL3va5VNeXBp4A2d1t0d3)  (Done by Wangjing)    [Trained ML models](https://drive.google.com/open?id=1YhW8qKTnllwA_ND46-3vHtRxdChym8W9)
 
-3. ...
+3. continue training RL on gigaword dataset [colab link](https://colab.research.google.com/drive/1X2Drxf1RKasp_G30qSSgM5iw0hPQmoKK)
 
 
 
