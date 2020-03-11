@@ -23,7 +23,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## Some colab notebook we can run to get result:
 1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
 
-2. Continue training the ML model using the same pre-trained model: [colab link](https://colab.research.google.com/drive/1fZ-tlDHAyU0tL3va5VNeXBp4A2d1t0d3)
+2. Continue training the ML model using the same pre-trained model: [colab link](https://colab.research.google.com/drive/1fZ-tlDHAyU0tL3va5VNeXBp4A2d1t0d3)  (Done by Wangjing)
 
 3. ...
 
