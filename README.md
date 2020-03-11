@@ -18,6 +18,8 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## WikiHow trunked testing files : [LINK](https://drive.google.com/drive/folders/1oWupLbQUvmVJk4cC6hs0n4hATet0Uln2?usp=sharing)
 
+# BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
+
 ## Some colab notebook we can run to get result:
 1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
 
