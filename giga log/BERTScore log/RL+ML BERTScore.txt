@@ -1,0 +1,28 @@
+#----------------Validation for ML+RL models ----------#
+
+
+
+0011000.tar scores: tensor(0.9025)\	
+\	
+0012000.tar scores: tensor(0.9028)\	
+\	
+0013000.tar scores: tensor(0.9031)\	
+\	
+0014000.tar scores: tensor(0.9027)\	
+\	
+0015000.tar scores: tensor(0.9027)\	
+\	
+0016000.tar scores: tensor(0.9025)\	
+\	
+0017000.tar scores: tensor(0.9027)\	
+\	
+0018000.tar scores: tensor(0.9028)\	
+\	
+0019000.tar scores: tensor(0.9031)\	
+\	
+0020000.tar scores: tensor(0.9030)\
+
+
+#--------------testing-------------–#
+
+0019000.tar scores: tensor(0.9032)
