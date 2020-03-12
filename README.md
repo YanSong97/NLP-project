@@ -28,6 +28,9 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 -----------------------------------Gigaword-------------------------------------------------------------------------------
 ## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/1tEiDx77a9Tf6AA8vYHC6t2tIF966Uj2f/view?usp=sharing)
 ## Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
+## Gigaword ML+RL trained models: [LINK](https://drive.google.com/drive/folders/16u6iaVKmSg636V1VlVHIAxiy0b17svDb?usp=sharing)
+## Gigaword ML trained models: [LINK](https://drive.google.com/open?id=1HFqaVSc56CFwAk7S9AT9yv29bzlZNrVA)
+## Gigaword RL trained models: on DeepNotes.
 
 
 -----------------------------------Colab Notebooks---------------------------------------------------------------------------
