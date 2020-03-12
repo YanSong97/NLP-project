@@ -1,4 +1,4 @@
-
+#-----------Validation------------#
 
 BERScore of validation data using ML model
 
@@ -21,3 +21,6 @@ BERScore of validation data using ML model
 0019000.tar scores: tensor(0.9032)
 
 0020000.tar scores: tensor(0.9037)
+
+#--------------Testing--------------#
+0020000.tar scores: tensor(0.9030)
