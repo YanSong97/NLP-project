@@ -1,0 +1,405 @@
+
+#-------------------------------Training----------------------------#
+
+
+
+Training mle: yes, Training rl: yes, mle weight: 0.50, rl weight: 0.50
+intra_encoder: True intra_decoder: True
+Warning: incorrectly formatted line in vocabulary file: # #\/# 2632
+
+
+Warning: incorrectly formatted line in vocabulary file: ## #\/# 263
+
+
+Warning: incorrectly formatted line in vocabulary file: -lrb-###-rrb- ###-#### 51
+
+
+max_size of vocab was specified as 50000; we now have 50000 words. Stopping reading.
+Finished constructing vocabulary of 50000 total words. Last word added: malignaggi
+INFO:tensorflow:Bucket queue size: 0, Input queue size: 0
+Loaded model at drive/My Drive/giga/giga_pretrain.tar
+INFO:tensorflow:Bucket queue size: 741, Input queue size: 32
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 133524
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 10200 mle_loss: 2.630 reward: 0.2697
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 10400 mle_loss: 2.675 reward: 0.2671
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 10600 mle_loss: 2.648 reward: 0.2696
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 10800 mle_loss: 2.659 reward: 0.2696
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 11000 mle_loss: 2.630 reward: 0.2700
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 11200 mle_loss: 2.642 reward: 0.2694
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 11400 mle_loss: 2.604 reward: 0.2736
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 11600 mle_loss: 2.612 reward: 0.2735
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 11800 mle_loss: 2.641 reward: 0.2691
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 12000 mle_loss: 2.584 reward: 0.2740
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 12200 mle_loss: 2.625 reward: 0.2703
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 12400 mle_loss: 2.587 reward: 0.2730
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 12600 mle_loss: 2.604 reward: 0.2716
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 199970
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 12800 mle_loss: 2.603 reward: 0.2731
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 13000 mle_loss: 2.599 reward: 0.2721
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 13200 mle_loss: 2.595 reward: 0.2740
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 13400 mle_loss: 2.579 reward: 0.2741
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 13600 mle_loss: 2.602 reward: 0.2745
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 14000 mle_loss: 2.554 reward: 0.2726
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 14200 mle_loss: 2.600 reward: 0.2737
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 14400 mle_loss: 2.571 reward: 0.2733
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 14600 mle_loss: 2.562 reward: 0.2755
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 14800 mle_loss: 2.551 reward: 0.2773
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 15000 mle_loss: 2.580 reward: 0.2738
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 15200 mle_loss: 2.564 reward: 0.2768
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 15400 mle_loss: 2.563 reward: 0.2754
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 15600 mle_loss: 2.588 reward: 0.2737
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 15800 mle_loss: 2.578 reward: 0.2759
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 199967
+iter: 16000 mle_loss: 2.563 reward: 0.2752
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 16200 mle_loss: 2.563 reward: 0.2761
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 16400 mle_loss: 2.541 reward: 0.2770
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 16600 mle_loss: 2.587 reward: 0.2751
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 16800 mle_loss: 2.539 reward: 0.2784
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 17000 mle_loss: 2.549 reward: 0.2777
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 199900
+iter: 17200 mle_loss: 2.558 reward: 0.2767
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 17400 mle_loss: 2.587 reward: 0.2756
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 17600 mle_loss: 2.549 reward: 0.2772
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 17800 mle_loss: 2.528 reward: 0.2781
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 18000 mle_loss: 2.592 reward: 0.2749
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 18200 mle_loss: 2.576 reward: 0.2740
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 18400 mle_loss: 2.512 reward: 0.2788
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 18600 mle_loss: 2.592 reward: 0.2743
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 18800 mle_loss: 2.535 reward: 0.2781
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 19000 mle_loss: 2.569 reward: 0.2755
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 199900
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 19200 mle_loss: 2.548 reward: 0.2778
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 19400 mle_loss: 2.558 reward: 0.2757
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 19600 mle_loss: 2.519 reward: 0.2796
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 19800 mle_loss: 2.519 reward: 0.2768
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+INFO:tensorflow:Bucket queue size: 1000, Input queue size: 200000
+iter: 20000 mle_loss: 2.530 reward: 0.2775
+
+
+
+#----------------------------validating---------------------------#
+
+
+0011000.tar rouge_l: 0.4051
+Scores: {'rouge-1': {'f': 0.42119536443580124, 'p': 0.4643635977118121, 'r': 0.40178294306392837}, 'rouge-2': {'f': 0.21821499383398518, 'p': 0.2422386205064776, 'r': 0.20820144753705652}, 'rouge-l': {'f': 0.40512872338836897, 'p': 0.4472349138956282, 'r': 0.3856852141459601}}
+
+
+0012000.tar rouge_l: 0.4069
+Scores: {'rouge-1': {'f': 0.4240199694270045, 'p': 0.4635261950351235, 'r': 0.40669844801882393}, 'rouge-2': {'f': 0.21768499381738374, 'p': 0.2399345693988552, 'r': 0.20837837477648377}, 'rouge-l': {'f': 0.40685259378645616, 'p': 0.44571580800152194, 'r': 0.3893218888041682}}
+
+0013000.tar rouge_l: 0.4077
+Scores: {'rouge-1': {'f': 0.42461680061232066, 'p': 0.4635965562215557, 'r': 0.4074758888319789}, 'rouge-2': {'f': 0.2220514919653816, 'p': 0.2448997054532769, 'r': 0.21245523768948102}, 'rouge-l': {'f': 0.4077036939687112, 'p': 0.44567864476792995, 'r': 0.390570844213838}}
+
+0014000.tar rouge_l: 0.4050
+Scores: {'rouge-1': {'f': 0.4215542340169999, 'p': 0.4596914177092743, 'r': 0.4049103384276682}, 'rouge-2': {'f': 0.21955355204515278, 'p': 0.24140290265290262, 'r': 0.2105312578994298}, 'rouge-l': {'f': 0.4050087488219694, 'p': 0.44274927453498825, 'r': 0.3880663676563155}}
+
+
+0015000.tar rouge_l: 0.4054
+Scores: {'rouge-1': {'f': 0.42252062717118033, 'p': 0.45989958057815167, 'r': 0.4068987333777229}, 'rouge-2': {'f': 0.21921388303462244, 'p': 0.2401131249702677, 'r': 0.21097035848138748}, 'rouge-l': {'f': 0.4053558629131323, 'p': 0.44222526085026, 'r': 0.3896208221304126}}
+
+0016000.tar rouge_l: 0.4030
+Scores: {'rouge-1': {'f': 0.4195697712390398, 'p': 0.4589392968142966, 'r': 0.40348478912869457}, 'rouge-2': {'f': 0.22074697509999724, 'p': 0.24310317063888484, 'r': 0.21234355175636652}, 'rouge-l': {'f': 0.40303517561309393, 'p': 0.4414315129315123, 'r': 0.38681204069242947}}
+
+
+0017000.tar rouge_l: 0.4058
+Scores: {'rouge-1': {'f': 0.4232004615928923, 'p': 0.46010907544836116, 'r': 0.4088454590376841}, 'rouge-2': {'f': 0.22086114440151908, 'p': 0.24168665461522576, 'r': 0.21331942013402055}, 'rouge-l': {'f': 0.4058004152671006, 'p': 0.44194960396746075, 'r': 0.3911775146209286}}
+
+
+0018000.tar rouge_l: 0.4058
+Scores: {'rouge-1': {'f': 0.4222898340346397, 'p': 0.4606538402074111, 'r': 0.40619519549403765}, 'rouge-2': {'f': 0.22170298468798394, 'p': 0.24336990786990745, 'r': 0.21337415607268526}, 'rouge-l': {'f': 0.40584555696960367, 'p': 0.4430968991326129, 'r': 0.389658814658426}}
+Warning: incorrectly formatted line in vocabulary file: # #\/# 2632
+
+
+0019000.tar rouge_l: 0.4064
+Scores: {'rouge-1': {'f': 0.42398603097039883, 'p': 0.46022128466771284, 'r': 0.40940360613102006}, 'rouge-2': {'f': 0.22130504266010276, 'p': 0.24128120292405986, 'r': 0.21408516996542176}, 'rouge-l': {'f': 0.40636581652866355, 'p': 0.441405312941027, 'r': 0.39190465810069813}}
+
+0020000.tar rouge_l: 0.4061
+Scores: {'rouge-1': {'f': 0.4223511520896094, 'p': 0.45839552312766596, 'r': 0.40815049049082475}, 'rouge-2': {'f': 0.2200281907413369, 'p': 0.24038053613053592, 'r': 0.21265134188873658}, 'rouge-l': {'f': 0.40613683242966364, 'p': 0.44087714864500566, 'r': 0.3919111855951459}}
+
+
+#-----------------------------------testing-------------------------------#
+
+
+0013000.tar scores: {'rouge-1': {'f': 0.4232801800481467, 'p': 0.462242559028273, 'r': 0.4070486371398023}, 'rouge-2': {'f': 0.2223031150585183, 'p': 0.24536857190428593, 'r': 0.21281178841000253}, 'rouge-l': {'f': 0.4080882263595928, 'p': 0.44618194503908803, 'r': 0.3914904075696028}}
+
+
+
+
+
+
+
