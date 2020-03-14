@@ -21,11 +21,13 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 # BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
 
------------------------------------CNN/DM-------------------------------------------------------------------------------
+-----------------------------------CNN/DM-----------------------------------------------------------------------
 
-## CNN train/valid/test/vocab files:  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
+## CNN train/valid/test/vocab files (Mike):  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
 
------------------------------------Gigaword-------------------------------------------------------------------------------
+## CNN/DailyMail train/valid/test/vocab files (Youning) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
+
+-----------------------------------Gigaword----------------------------------------------------------------------
 ## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/1tEiDx77a9Tf6AA8vYHC6t2tIF966Uj2f/view?usp=sharing)
 ## Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
 ## Gigaword ML+RL trained models: [LINK](https://drive.google.com/drive/folders/16u6iaVKmSg636V1VlVHIAxiy0b17svDb?usp=sharing)
