@@ -8,7 +8,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## Draft report: [Overleaf](https://www.overleaf.com/project/5e4eed8fc806ef0001bfac1a)
 
------------------------------------WikiHow-------------------------------------------------------------------------------
+-----------------------------------WikiHow-----------------------------------------------------
 ## WikiHow data pre_trained model (ML for 10,000 iterations): [LINK](https://drive.google.com/drive/folders/1Yg5z4ixRVj-AZK2F7qXULb6YzsS_OTjj?usp=sharing)
 
 ## WikiHow trunked training files: [LINK](https://drive.google.com/drive/folders/1r-gApimxibJfU2tiOxhWkkPTr5CZD7iQ?usp=sharing)
@@ -21,13 +21,13 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 # BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
 
------------------------------------CNN/DM-----------------------------------------------------------------------
+-----------------------------------CNN/DM-----------------------------------------------------
 
 ## CNN train/valid/test/vocab files (Mike):  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
 
 ## CNN/DailyMail train/valid/test/vocab files (Youning) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
 
------------------------------------Gigaword----------------------------------------------------------------------
+-----------------------------------Gigaword-----------------------------------------------------
 ## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/1tEiDx77a9Tf6AA8vYHC6t2tIF966Uj2f/view?usp=sharing)
 ## Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
 ## Gigaword ML+RL trained models: [LINK](https://drive.google.com/drive/folders/16u6iaVKmSg636V1VlVHIAxiy0b17svDb?usp=sharing)
@@ -35,7 +35,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## Gigaword RL trained models: on DeepNotes.
 
 
------------------------------------Colab Notebooks---------------------------------------------------------------------------
+-----------------------------------Colab Notebooks-----------------------------------------------------
 ## Some colab notebook we can run to get result:
 1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
 
