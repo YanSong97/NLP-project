@@ -12,13 +12,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## WikiHow data pre_trained model (ML for 10,000 iterations): [LINK](https://drive.google.com/drive/folders/1Yg5z4ixRVj-AZK2F7qXULb6YzsS_OTjj?usp=sharing)
 
-## WikiHow trunked training files: [LINK](https://drive.google.com/drive/folders/1r-gApimxibJfU2tiOxhWkkPTr5CZD7iQ?usp=sharing)
-
-## WikiHow Vocab file: [LINK](https://drive.google.com/file/d/1t6Nh8GTylnkU6naUqbGx0oVxcBe-dJie/view?usp=sharing)
-
-## WikiHow validation data: [LINK](https://drive.google.com/file/d/1Ew2amhF3pJsC_BWmYdC3VdJXnePVQk2q/view?usp=sharing)
-
-## WikiHow trunked testing files : [LINK](https://drive.google.com/drive/folders/1oWupLbQUvmVJk4cC6hs0n4hATet0Uln2?usp=sharing)
+## WikiHow data files: [LINK](https://drive.google.com/drive/folders/1oaYyf3NPYYbrnJCRXt6OAb4ngAX8UsTZ?usp=sharing)
 
 ## BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
 
