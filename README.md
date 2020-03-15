@@ -14,6 +14,8 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## WikiHow data files: [LINK](https://drive.google.com/drive/folders/1oaYyf3NPYYbrnJCRXt6OAb4ngAX8UsTZ?usp=sharing)
 
+## WikiHow RL training models:  [LINK](https://drive.google.com/drive/folders/1gPPBGrYQkGd06kcCkJ-TdCtilFPPPkGv?usp=sharing)
+
 ## BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
 
 -----------------------------------CNN/DM-----------------------------------------------------
