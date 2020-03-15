@@ -1,5 +1,5 @@
 
-#--------------------------------Training-----------------------------#
+#-------------------------------Training-----------------------------#
 
 Training mle: no, Training rl: yes, mle weight: 0.00, rl weight: 1.00
 intra_encoder: True intra_decoder: True
