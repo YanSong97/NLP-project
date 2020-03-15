@@ -26,7 +26,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## CNN train/valid/test/vocab files (Mike):  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
 
-## CNN/DailyMail train/valid/test/vocab files (Youning) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
+## CNN/DailyMail train/valid/test/vocab files (Youning)(including pre-trained models) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
 
 ## Pre-trained Model Colab : [LINK](https://colab.research.google.com/drive/1cwoFYT-IsxfUlCZwXG2W6Neizk_ZyY4V)
 
@@ -46,7 +46,9 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 2. Continue training the ML model using the same pre-trained model: [colab link](https://colab.research.google.com/drive/1fZ-tlDHAyU0tL3va5VNeXBp4A2d1t0d3)  (Done by Wangjing)    [Trained ML models](https://drive.google.com/open?id=1YhW8qKTnllwA_ND46-3vHtRxdChym8W9)
 
-3. continue training RL on gigaword dataset [colab link](https://colab.research.google.com/drive/1X2Drxf1RKasp_G30qSSgM5iw0hPQmoKK)
+3. continue training RL on gigaword dataset [colab link](https://colab.research.google.com/drive/1X2Drxf1RKasp_G30qSSgM5iw0hPQmoKK)  (Done)
+
+4.  Continue ML training on CNN/DM dataset [colab link](https://colab.research.google.com/drive/1T7yKZ4fYtI5s7OnZdUu5BWNaeQ__OdCH) (to do RL or RL+ML only a few modification is needed)
 
 
 
