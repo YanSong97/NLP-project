@@ -1481,6 +1481,94 @@ INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
 INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
 iter: 18600 mle_loss: 3.035 reward: 0.0000
 
+##### reconnected here and restarted from 0018000.tar #####
+Training mle: yes, Training rl: no , mle weight: 1.00, rl weight: 0.00
+intra_encoder: True intra_decoder: True
+Warning: incorrectly formatted line in vocabulary file: 0800 555 111 356
+
+
+max_size of vocab was specified as 30000; we now have 30000 words. Stopping reading.
+Finished constructing vocabulary of 30000 total words. Last word added: resurrected
+INFO:tensorflow:Bucket queue size: 0, Input queue size: 0
+Loaded model at drive/My Drive/NLP PROJ/cnn_ml_model/0018000.tar
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 18200 mle_loss: 2.970 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 18400 mle_loss: 2.978 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 18600 mle_loss: 2.982 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 18800 mle_loss: 3.004 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 19000 mle_loss: 3.031 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 19200 mle_loss: 3.020 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 19400 mle_loss: 3.040 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 19600 mle_loss: 2.973 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 19800 mle_loss: 3.027 reward: 0.0000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 20000 mle_loss: 3.017 reward: 0.0000
+
+
+
+
+
 #---------------------------Validating------------------------------#
 0011000.tar rouge_l: 0.4012
 Scores: {'rouge-1': {'f': 0.4339192392124749, 'p': 0.43818659095427287, 'r': 0.45714311693730775}, 'rouge-2': {'f': 0.20694181755653893, 'p': 0.20963702155009273, 'r': 0.2176562451298646}, 'rouge-l': {'f': 0.4011901200535529, 'p': 0.41537322178279745, 'r': 0.4104701411473539}}
@@ -1496,6 +1584,12 @@ Scores: {'rouge-1': {'f': 0.4333885068206905, 'p': 0.41141665583272446, 'r': 0.4
 
 0015000.tar rouge_l: 0.4087
 Scores: {'rouge-1': {'f': 0.4440093056694522, 'p': 0.41768793679592636, 'r': 0.5035587603989117}, 'rouge-2': {'f': 0.21265138455574278, 'p': 0.20019515086359058, 'r': 0.2413672025619324}, 'rouge-l': {'f': 0.4087417943060979, 'p': 0.3921732699161513, 'r': 0.4491533477076442}}
+
+0016000.tar rouge_l: 0.4025
+Scores: {'rouge-1': {'f': 0.43835924140120186, 'p': 0.42019035329492405, 'r': 0.48659279368082947}, 'rouge-2': {'f': 0.20812027459102594, 'p': 0.20007446852929345, 'r': 0.23066634510459516}, 'rouge-l': {'f': 0.40247558026295527, 'p': 0.39465740852545095, 'r': 0.43245286261119215}}
+
+0017000.tar rouge_l: 0.4053
+Scores: {'rouge-1': {'f': 0.43842479933138734, 'p': 0.41220204913541525, 'r': 0.4971070424368092}, 'rouge-2': {'f': 0.2097338853465744, 'p': 0.19745044897590697, 'r': 0.23781528265195429}, 'rouge-l': {'f': 0.40528014450144967, 'p': 0.3976104706000472, 'r': 0.4361167189262468}}
 
 
 #----------------------------Testing------------------------------#
