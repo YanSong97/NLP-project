@@ -30,6 +30,8 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## CNN RL trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing); [colab](https://colab.research.google.com/drive/1AYe8HlFm0QCyImV_Pew9Adz2Zs_QErly)
 
+## CNN RL+ML trained models(YS): [folder link](https://drive.google.com/drive/folders/1WuESSVflSyt92G28yu0pfEzlksxRgOt3?usp=sharing)
+
 -----------------------------------Gigaword-----------------------------------------------------
 
 ## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/1tEiDx77a9Tf6AA8vYHC6t2tIF966Uj2f/view?usp=sharing)
