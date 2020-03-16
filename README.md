@@ -24,11 +24,11 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## CNN/DailyMail train/valid/test/vocab files (Youning)(including pre-trained models) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
 
-## Pre-trained Model Colab : [LINK](https://colab.research.google.com/drive/1cwoFYT-IsxfUlCZwXG2W6Neizk_ZyY4V)
+## Pre-trained Model Colab(Youning): [LINK](https://colab.research.google.com/drive/1cwoFYT-IsxfUlCZwXG2W6Neizk_ZyY4V)
 
-## CNN ML trained models: [folder link](https://drive.google.com/drive/folders/155ldJSInimq06Xo7cdhkfCeSI8QNypem?usp=sharing); [colab](https://colab.research.google.com/drive/1v0k5jJP2rPWDBkzuCCvmavMhPuvk51Ny)
+## CNN ML trained models(Zoey): [folder link](https://drive.google.com/drive/folders/155ldJSInimq06Xo7cdhkfCeSI8QNypem?usp=sharing); [colab](https://colab.research.google.com/drive/1v0k5jJP2rPWDBkzuCCvmavMhPuvk51Ny)
 
-## CNN RL trained models: [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing); [colab](https://colab.research.google.com/drive/1AYe8HlFm0QCyImV_Pew9Adz2Zs_QErly)
+## CNN RL trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing); [colab](https://colab.research.google.com/drive/1AYe8HlFm0QCyImV_Pew9Adz2Zs_QErly)
 
 -----------------------------------Gigaword-----------------------------------------------------
 
