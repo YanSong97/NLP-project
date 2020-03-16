@@ -52,6 +52,7 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 4.  Continue ML training on CNN/DM dataset [colab link](https://colab.research.google.com/drive/1T7yKZ4fYtI5s7OnZdUu5BWNaeQ__OdCH) (to do RL or RL+ML only a few modification is needed)
 
+5.  Validation of ML+RL model on CNN/DM dataset [colab link](https://colab.research.google.com/drive/17azNgOjASVXwfaGWLJPOJfy9cfeU3lAU), the models are in [link](https://drive.google.com/drive/folders/1WuESSVflSyt92G28yu0pfEzlksxRgOt3?usp=sharing), the cnn/dm dataset are Youning's version stated above.
 
 
 
