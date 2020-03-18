@@ -2,6 +2,11 @@
 
 #### Summary of datasize: 
 
+`Gigaword` 
+- **train**: 3,803,957
+- **valid**: 189,651
+- **test**: 1,951
+
 `CNN/Daily Mails` (used in Salesforce Paper): 
 - **train**: 287,113 (92%)
 - **valid**: 13,368 (4.2%)
