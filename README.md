@@ -26,11 +26,13 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 
 ## Pre-trained Model Colab(Youning): [LINK](https://colab.research.google.com/drive/1cwoFYT-IsxfUlCZwXG2W6Neizk_ZyY4V)
 
-## CNN ML trained models(Zoey): [folder link](https://drive.google.com/drive/folders/155ldJSInimq06Xo7cdhkfCeSI8QNypem?usp=sharing); [colab](https://colab.research.google.com/drive/1v0k5jJP2rPWDBkzuCCvmavMhPuvk51Ny)
+## CNN ML trained models(Zoey): [folder link](https://drive.google.com/drive/folders/155ldJSInimq06Xo7cdhkfCeSI8QNypem?usp=sharing)
 
-## CNN RL trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing); [colab](https://colab.research.google.com/drive/1AYe8HlFm0QCyImV_Pew9Adz2Zs_QErly)
+## CNN RL(r) trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing)
 
 ## CNN RL+ML trained models(YS): [folder link](https://drive.google.com/drive/folders/1WuESSVflSyt92G28yu0pfEzlksxRgOt3?usp=sharing)
+
+## CNN RL(b) trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1HeF2NOK8u9b9a1Q-bZS6lNvliPGlQApc?usp=sharing)
 
 -----------------------------------Gigaword-----------------------------------------------------
 
