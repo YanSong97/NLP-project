@@ -8205,3 +8205,2657 @@ RuntimeError                              Traceback (most recent call last)
     237             # Apply the attention mask is (precomputed for all layers in BertModel forward() function)
 
 RuntimeError: CUDA out of memory. Tried to allocate 800.00 MiB (GPU 0; 15.90 GiB total capacity; 13.40 GiB already allocated; 633.88 MiB free; 14.58 GiB reserved in total by PyTorch)
+
+
+Training mle: no, Training rl: yes, mle weight: 0.00, rl weight: 1.00
+intra_encoder: True intra_decoder: True
+Warning: incorrectly formatted line in vocabulary file: 0800 555 111 356
+
+
+max_size of vocab was specified as 30000; we now have 30000 words. Stopping reading.
+Finished constructing vocabulary of 30000 total words. Last word added: resurrected
+INFO:tensorflow:Bucket queue size: 0, Input queue size: 0
+Loaded model at drive/My Drive/NLP PROJ/cnn_rl_bert_model/0012100.tar
+Downloading: 100%
+525/525 [00:01<00:00, 269B/s]
+
+Downloading: 100%
+899k/899k [00:01<00:00, 686kB/s]
+
+Downloading: 100%
+456k/456k [00:00<00:00, 1.22MB/s]
+
+Downloading: 100%
+1.43G/1.43G [00:31<00:00, 44.7MB/s]
+
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12102 mle_loss: 0.000 reward: 0.8917
+pass reward function
+pass reward function
+iter: 12103 mle_loss: 0.000 reward: 0.9001
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12104 mle_loss: 0.000 reward: 0.8968
+pass reward function
+pass reward function
+iter: 12105 mle_loss: 0.000 reward: 0.8980
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12106 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12107 mle_loss: 0.000 reward: 0.8881
+pass reward function
+pass reward function
+iter: 12108 mle_loss: 0.000 reward: 0.8911
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12109 mle_loss: 0.000 reward: 0.8937
+pass reward function
+pass reward function
+iter: 12110 mle_loss: 0.000 reward: 0.8931
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12111 mle_loss: 0.000 reward: 0.8891
+pass reward function
+pass reward function
+iter: 12112 mle_loss: 0.000 reward: 0.8961
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12113 mle_loss: 0.000 reward: 0.8985
+pass reward function
+pass reward function
+iter: 12114 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12115 mle_loss: 0.000 reward: 0.8924
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12116 mle_loss: 0.000 reward: 0.8976
+pass reward function
+pass reward function
+iter: 12117 mle_loss: 0.000 reward: 0.8993
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12118 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12119 mle_loss: 0.000 reward: 0.8936
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12120 mle_loss: 0.000 reward: 0.8987
+pass reward function
+pass reward function
+iter: 12121 mle_loss: 0.000 reward: 0.8914
+pass reward function
+pass reward function
+iter: 12122 mle_loss: 0.000 reward: 0.8895
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12123 mle_loss: 0.000 reward: 0.8980
+pass reward function
+pass reward function
+iter: 12124 mle_loss: 0.000 reward: 0.8926
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12125 mle_loss: 0.000 reward: 0.8930
+pass reward function
+pass reward function
+iter: 12126 mle_loss: 0.000 reward: 0.8935
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12127 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12128 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12129 mle_loss: 0.000 reward: 0.8979
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12130 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12131 mle_loss: 0.000 reward: 0.8946
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12132 mle_loss: 0.000 reward: 0.8907
+pass reward function
+pass reward function
+iter: 12133 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12134 mle_loss: 0.000 reward: 0.8923
+pass reward function
+pass reward function
+iter: 12135 mle_loss: 0.000 reward: 0.8966
+pass reward function
+pass reward function
+iter: 12136 mle_loss: 0.000 reward: 0.8960
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12137 mle_loss: 0.000 reward: 0.8965
+pass reward function
+pass reward function
+iter: 12138 mle_loss: 0.000 reward: 0.8961
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12139 mle_loss: 0.000 reward: 0.8916
+pass reward function
+pass reward function
+iter: 12140 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12141 mle_loss: 0.000 reward: 0.8986
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12142 mle_loss: 0.000 reward: 0.8940
+pass reward function
+pass reward function
+iter: 12143 mle_loss: 0.000 reward: 0.8939
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12144 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12145 mle_loss: 0.000 reward: 0.8996
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12146 mle_loss: 0.000 reward: 0.8899
+pass reward function
+pass reward function
+iter: 12147 mle_loss: 0.000 reward: 0.8973
+pass reward function
+pass reward function
+iter: 12148 mle_loss: 0.000 reward: 0.8943
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12149 mle_loss: 0.000 reward: 0.8955
+pass reward function
+pass reward function
+iter: 12150 mle_loss: 0.000 reward: 0.8935
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12151 mle_loss: 0.000 reward: 0.8931
+pass reward function
+pass reward function
+iter: 12152 mle_loss: 0.000 reward: 0.8981
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12153 mle_loss: 0.000 reward: 0.8952
+pass reward function
+pass reward function
+iter: 12154 mle_loss: 0.000 reward: 0.8947
+pass reward function
+pass reward function
+iter: 12155 mle_loss: 0.000 reward: 0.8951
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12156 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12157 mle_loss: 0.000 reward: 0.8943
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12158 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+iter: 12159 mle_loss: 0.000 reward: 0.8957
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12160 mle_loss: 0.000 reward: 0.8936
+pass reward function
+pass reward function
+iter: 12161 mle_loss: 0.000 reward: 0.8939
+pass reward function
+pass reward function
+iter: 12162 mle_loss: 0.000 reward: 0.8965
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12163 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12164 mle_loss: 0.000 reward: 0.8975
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12165 mle_loss: 0.000 reward: 0.8920
+pass reward function
+pass reward function
+iter: 12166 mle_loss: 0.000 reward: 0.8936
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12167 mle_loss: 0.000 reward: 0.8928
+pass reward function
+pass reward function
+iter: 12168 mle_loss: 0.000 reward: 0.8929
+pass reward function
+pass reward function
+iter: 12169 mle_loss: 0.000 reward: 0.8930
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12170 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12171 mle_loss: 0.000 reward: 0.8893
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12172 mle_loss: 0.000 reward: 0.8933
+pass reward function
+pass reward function
+iter: 12173 mle_loss: 0.000 reward: 0.8962
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12174 mle_loss: 0.000 reward: 0.8904
+pass reward function
+pass reward function
+iter: 12175 mle_loss: 0.000 reward: 0.8930
+pass reward function
+pass reward function
+iter: 12176 mle_loss: 0.000 reward: 0.8950
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12177 mle_loss: 0.000 reward: 0.8998
+pass reward function
+pass reward function
+iter: 12178 mle_loss: 0.000 reward: 0.8966
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12179 mle_loss: 0.000 reward: 0.8983
+pass reward function
+pass reward function
+iter: 12180 mle_loss: 0.000 reward: 0.8969
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12181 mle_loss: 0.000 reward: 0.8973
+pass reward function
+pass reward function
+iter: 12182 mle_loss: 0.000 reward: 0.8940
+pass reward function
+pass reward function
+iter: 12183 mle_loss: 0.000 reward: 0.8918
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12184 mle_loss: 0.000 reward: 0.8957
+pass reward function
+pass reward function
+iter: 12185 mle_loss: 0.000 reward: 0.8935
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12186 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12187 mle_loss: 0.000 reward: 0.8931
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12188 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12189 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12190 mle_loss: 0.000 reward: 0.8916
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12191 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12192 mle_loss: 0.000 reward: 0.8984
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12193 mle_loss: 0.000 reward: 0.8918
+pass reward function
+pass reward function
+iter: 12194 mle_loss: 0.000 reward: 0.8979
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12195 mle_loss: 0.000 reward: 0.8925
+pass reward function
+pass reward function
+iter: 12196 mle_loss: 0.000 reward: 0.8959
+pass reward function
+pass reward function
+iter: 12197 mle_loss: 0.000 reward: 0.9001
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12198 mle_loss: 0.000 reward: 0.8956
+pass reward function
+pass reward function
+iter: 12199 mle_loss: 0.000 reward: 0.8921
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12200 mle_loss: 0.000 reward: 0.8919
+pass reward function
+pass reward function
+iter: 12201 mle_loss: 0.000 reward: 0.8976
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12202 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12203 mle_loss: 0.000 reward: 0.8948
+pass reward function
+pass reward function
+iter: 12204 mle_loss: 0.000 reward: 0.8960
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12205 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12206 mle_loss: 0.000 reward: 0.8918
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12207 mle_loss: 0.000 reward: 0.8917
+pass reward function
+pass reward function
+iter: 12208 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12209 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12210 mle_loss: 0.000 reward: 0.8942
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12211 mle_loss: 0.000 reward: 0.8899
+pass reward function
+pass reward function
+iter: 12212 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12213 mle_loss: 0.000 reward: 0.8967
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12214 mle_loss: 0.000 reward: 0.8952
+pass reward function
+pass reward function
+iter: 12215 mle_loss: 0.000 reward: 0.8980
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12216 mle_loss: 0.000 reward: 0.8935
+pass reward function
+pass reward function
+iter: 12217 mle_loss: 0.000 reward: 0.8934
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12218 mle_loss: 0.000 reward: 0.8938
+pass reward function
+pass reward function
+iter: 12219 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12220 mle_loss: 0.000 reward: 0.8977
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12221 mle_loss: 0.000 reward: 0.8968
+pass reward function
+pass reward function
+iter: 12222 mle_loss: 0.000 reward: 0.8933
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12223 mle_loss: 0.000 reward: 0.9000
+pass reward function
+pass reward function
+iter: 12224 mle_loss: 0.000 reward: 0.8941
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12225 mle_loss: 0.000 reward: 0.8991
+pass reward function
+pass reward function
+iter: 12226 mle_loss: 0.000 reward: 0.8935
+pass reward function
+pass reward function
+iter: 12227 mle_loss: 0.000 reward: 0.8960
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12228 mle_loss: 0.000 reward: 0.8935
+pass reward function
+pass reward function
+iter: 12229 mle_loss: 0.000 reward: 0.8957
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12230 mle_loss: 0.000 reward: 0.8956
+pass reward function
+pass reward function
+iter: 12231 mle_loss: 0.000 reward: 0.8997
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12232 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12233 mle_loss: 0.000 reward: 0.8947
+pass reward function
+pass reward function
+iter: 12234 mle_loss: 0.000 reward: 0.8967
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12235 mle_loss: 0.000 reward: 0.8984
+pass reward function
+pass reward function
+iter: 12236 mle_loss: 0.000 reward: 0.8925
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12237 mle_loss: 0.000 reward: 0.8908
+pass reward function
+pass reward function
+iter: 12238 mle_loss: 0.000 reward: 0.8932
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12239 mle_loss: 0.000 reward: 0.8892
+pass reward function
+pass reward function
+iter: 12240 mle_loss: 0.000 reward: 0.8925
+pass reward function
+pass reward function
+iter: 12241 mle_loss: 0.000 reward: 0.8950
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12242 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12243 mle_loss: 0.000 reward: 0.8941
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12244 mle_loss: 0.000 reward: 0.8935
+pass reward function
+pass reward function
+iter: 12245 mle_loss: 0.000 reward: 0.8965
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12246 mle_loss: 0.000 reward: 0.8969
+pass reward function
+pass reward function
+iter: 12247 mle_loss: 0.000 reward: 0.8952
+pass reward function
+pass reward function
+iter: 12248 mle_loss: 0.000 reward: 0.8963
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12249 mle_loss: 0.000 reward: 0.8955
+pass reward function
+pass reward function
+iter: 12250 mle_loss: 0.000 reward: 0.8890
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12251 mle_loss: 0.000 reward: 0.8952
+pass reward function
+pass reward function
+iter: 12252 mle_loss: 0.000 reward: 0.8895
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12253 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12254 mle_loss: 0.000 reward: 0.8998
+pass reward function
+pass reward function
+iter: 12255 mle_loss: 0.000 reward: 0.8974
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12256 mle_loss: 0.000 reward: 0.8937
+pass reward function
+pass reward function
+iter: 12257 mle_loss: 0.000 reward: 0.8963
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12258 mle_loss: 0.000 reward: 0.8966
+pass reward function
+pass reward function
+iter: 12259 mle_loss: 0.000 reward: 0.8945
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12260 mle_loss: 0.000 reward: 0.8953
+pass reward function
+pass reward function
+iter: 12261 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12262 mle_loss: 0.000 reward: 0.8962
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12263 mle_loss: 0.000 reward: 0.8970
+pass reward function
+pass reward function
+iter: 12264 mle_loss: 0.000 reward: 0.8933
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12265 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12266 mle_loss: 0.000 reward: 0.8950
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12267 mle_loss: 0.000 reward: 0.8952
+pass reward function
+pass reward function
+iter: 12268 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12269 mle_loss: 0.000 reward: 0.8960
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12270 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12271 mle_loss: 0.000 reward: 0.8951
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12272 mle_loss: 0.000 reward: 0.8948
+pass reward function
+pass reward function
+iter: 12273 mle_loss: 0.000 reward: 0.8925
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12274 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12275 mle_loss: 0.000 reward: 0.8972
+pass reward function
+pass reward function
+iter: 12276 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12277 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12278 mle_loss: 0.000 reward: 0.8934
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12279 mle_loss: 0.000 reward: 0.8902
+pass reward function
+pass reward function
+iter: 12280 mle_loss: 0.000 reward: 0.8909
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12281 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12282 mle_loss: 0.000 reward: 0.8908
+pass reward function
+pass reward function
+iter: 12283 mle_loss: 0.000 reward: 0.8998
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12284 mle_loss: 0.000 reward: 0.8995
+pass reward function
+pass reward function
+iter: 12285 mle_loss: 0.000 reward: 0.8971
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12286 mle_loss: 0.000 reward: 0.8952
+pass reward function
+pass reward function
+iter: 12287 mle_loss: 0.000 reward: 0.8952
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12288 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+iter: 12289 mle_loss: 0.000 reward: 0.8907
+pass reward function
+pass reward function
+iter: 12290 mle_loss: 0.000 reward: 0.8936
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12291 mle_loss: 0.000 reward: 0.8913
+pass reward function
+pass reward function
+iter: 12292 mle_loss: 0.000 reward: 0.8970
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12293 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12294 mle_loss: 0.000 reward: 0.8982
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12295 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12296 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12297 mle_loss: 0.000 reward: 0.8990
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12298 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12299 mle_loss: 0.000 reward: 0.8970
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12300 mle_loss: 0.000 reward: 0.8913
+pass reward function
+pass reward function
+iter: 12301 mle_loss: 0.000 reward: 0.8919
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12302 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12303 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12304 mle_loss: 0.000 reward: 0.8949
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12305 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12306 mle_loss: 0.000 reward: 0.8944
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12307 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12308 mle_loss: 0.000 reward: 0.8975
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12309 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12310 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12311 mle_loss: 0.000 reward: 0.8974
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12312 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12313 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12314 mle_loss: 0.000 reward: 0.8947
+pass reward function
+pass reward function
+iter: 12315 mle_loss: 0.000 reward: 0.8973
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12316 mle_loss: 0.000 reward: 0.8929
+pass reward function
+pass reward function
+iter: 12317 mle_loss: 0.000 reward: 0.8957
+pass reward function
+pass reward function
+iter: 12318 mle_loss: 0.000 reward: 0.9003
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12319 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+iter: 12320 mle_loss: 0.000 reward: 0.8953
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12321 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12322 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12323 mle_loss: 0.000 reward: 0.8935
+pass reward function
+pass reward function
+iter: 12324 mle_loss: 0.000 reward: 0.8986
+pass reward function
+pass reward function
+iter: 12325 mle_loss: 0.000 reward: 0.8947
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12326 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12327 mle_loss: 0.000 reward: 0.8914
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12328 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12329 mle_loss: 0.000 reward: 0.8972
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12330 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12331 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12332 mle_loss: 0.000 reward: 0.8899
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12333 mle_loss: 0.000 reward: 0.8986
+pass reward function
+pass reward function
+iter: 12334 mle_loss: 0.000 reward: 0.8915
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12335 mle_loss: 0.000 reward: 0.9010
+pass reward function
+pass reward function
+iter: 12336 mle_loss: 0.000 reward: 0.8957
+pass reward function
+pass reward function
+iter: 12337 mle_loss: 0.000 reward: 0.8940
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12338 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12339 mle_loss: 0.000 reward: 0.8936
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12340 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12341 mle_loss: 0.000 reward: 0.8937
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12342 mle_loss: 0.000 reward: 0.9017
+pass reward function
+pass reward function
+iter: 12343 mle_loss: 0.000 reward: 0.8909
+pass reward function
+pass reward function
+iter: 12344 mle_loss: 0.000 reward: 0.8989
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12345 mle_loss: 0.000 reward: 0.8971
+pass reward function
+pass reward function
+iter: 12346 mle_loss: 0.000 reward: 0.8966
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12347 mle_loss: 0.000 reward: 0.8982
+pass reward function
+pass reward function
+iter: 12348 mle_loss: 0.000 reward: 0.8926
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12349 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12350 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12351 mle_loss: 0.000 reward: 0.8971
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12352 mle_loss: 0.000 reward: 0.8953
+pass reward function
+pass reward function
+iter: 12353 mle_loss: 0.000 reward: 0.8928
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12354 mle_loss: 0.000 reward: 0.8914
+pass reward function
+pass reward function
+iter: 12355 mle_loss: 0.000 reward: 0.8901
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12356 mle_loss: 0.000 reward: 0.8999
+pass reward function
+pass reward function
+iter: 12357 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12358 mle_loss: 0.000 reward: 0.8993
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12359 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12360 mle_loss: 0.000 reward: 0.8979
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12361 mle_loss: 0.000 reward: 0.8972
+pass reward function
+pass reward function
+iter: 12362 mle_loss: 0.000 reward: 0.8979
+pass reward function
+pass reward function
+iter: 12363 mle_loss: 0.000 reward: 0.9012
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12364 mle_loss: 0.000 reward: 0.9039
+pass reward function
+pass reward function
+iter: 12365 mle_loss: 0.000 reward: 0.8948
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12366 mle_loss: 0.000 reward: 0.8916
+pass reward function
+pass reward function
+iter: 12367 mle_loss: 0.000 reward: 0.8950
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12368 mle_loss: 0.000 reward: 0.8972
+pass reward function
+pass reward function
+iter: 12369 mle_loss: 0.000 reward: 0.8965
+pass reward function
+pass reward function
+iter: 12370 mle_loss: 0.000 reward: 0.8927
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12371 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12372 mle_loss: 0.000 reward: 0.8990
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12373 mle_loss: 0.000 reward: 0.8959
+pass reward function
+pass reward function
+iter: 12374 mle_loss: 0.000 reward: 0.8947
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12375 mle_loss: 0.000 reward: 0.8933
+pass reward function
+pass reward function
+iter: 12376 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12377 mle_loss: 0.000 reward: 0.9009
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12378 mle_loss: 0.000 reward: 0.8986
+pass reward function
+pass reward function
+iter: 12379 mle_loss: 0.000 reward: 0.8991
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12380 mle_loss: 0.000 reward: 0.9006
+pass reward function
+pass reward function
+iter: 12381 mle_loss: 0.000 reward: 0.8983
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12382 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12383 mle_loss: 0.000 reward: 0.8984
+pass reward function
+pass reward function
+iter: 12384 mle_loss: 0.000 reward: 0.8994
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12385 mle_loss: 0.000 reward: 0.8925
+pass reward function
+pass reward function
+iter: 12386 mle_loss: 0.000 reward: 0.8944
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12387 mle_loss: 0.000 reward: 0.8926
+pass reward function
+pass reward function
+iter: 12388 mle_loss: 0.000 reward: 0.9019
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12389 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12390 mle_loss: 0.000 reward: 0.9011
+pass reward function
+pass reward function
+iter: 12391 mle_loss: 0.000 reward: 0.9014
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12392 mle_loss: 0.000 reward: 0.8916
+pass reward function
+pass reward function
+iter: 12393 mle_loss: 0.000 reward: 0.9033
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12394 mle_loss: 0.000 reward: 0.8970
+pass reward function
+pass reward function
+iter: 12395 mle_loss: 0.000 reward: 0.8927
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12396 mle_loss: 0.000 reward: 0.8999
+pass reward function
+pass reward function
+iter: 12397 mle_loss: 0.000 reward: 0.8921
+pass reward function
+pass reward function
+iter: 12398 mle_loss: 0.000 reward: 0.8925
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12399 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12400 mle_loss: 0.000 reward: 0.8946
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12401 mle_loss: 0.000 reward: 0.8971
+pass reward function
+pass reward function
+iter: 12402 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12403 mle_loss: 0.000 reward: 0.8955
+pass reward function
+pass reward function
+iter: 12404 mle_loss: 0.000 reward: 0.8963
+pass reward function
+pass reward function
+iter: 12405 mle_loss: 0.000 reward: 0.8949
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12406 mle_loss: 0.000 reward: 0.8994
+pass reward function
+pass reward function
+iter: 12407 mle_loss: 0.000 reward: 0.8971
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12408 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12409 mle_loss: 0.000 reward: 0.8924
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12410 mle_loss: 0.000 reward: 0.8982
+pass reward function
+pass reward function
+iter: 12411 mle_loss: 0.000 reward: 0.8894
+pass reward function
+pass reward function
+iter: 12412 mle_loss: 0.000 reward: 0.8949
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12413 mle_loss: 0.000 reward: 0.9007
+pass reward function
+pass reward function
+iter: 12414 mle_loss: 0.000 reward: 0.8941
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12415 mle_loss: 0.000 reward: 0.8940
+pass reward function
+pass reward function
+iter: 12416 mle_loss: 0.000 reward: 0.8968
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12417 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12418 mle_loss: 0.000 reward: 0.8964
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12419 mle_loss: 0.000 reward: 0.9014
+pass reward function
+pass reward function
+iter: 12420 mle_loss: 0.000 reward: 0.8930
+pass reward function
+pass reward function
+iter: 12421 mle_loss: 0.000 reward: 0.8964
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12422 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12423 mle_loss: 0.000 reward: 0.8944
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12424 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12425 mle_loss: 0.000 reward: 0.8940
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12426 mle_loss: 0.000 reward: 0.8980
+pass reward function
+pass reward function
+iter: 12427 mle_loss: 0.000 reward: 0.8933
+pass reward function
+pass reward function
+iter: 12428 mle_loss: 0.000 reward: 0.8947
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12429 mle_loss: 0.000 reward: 0.8927
+pass reward function
+pass reward function
+iter: 12430 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12431 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12432 mle_loss: 0.000 reward: 0.9009
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12433 mle_loss: 0.000 reward: 0.8923
+pass reward function
+pass reward function
+iter: 12434 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12435 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12436 mle_loss: 0.000 reward: 0.8988
+pass reward function
+pass reward function
+iter: 12437 mle_loss: 0.000 reward: 0.8970
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12438 mle_loss: 0.000 reward: 0.9002
+pass reward function
+pass reward function
+iter: 12439 mle_loss: 0.000 reward: 0.8970
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12440 mle_loss: 0.000 reward: 0.8968
+pass reward function
+pass reward function
+iter: 12441 mle_loss: 0.000 reward: 0.8953
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12442 mle_loss: 0.000 reward: 0.8987
+pass reward function
+pass reward function
+iter: 12443 mle_loss: 0.000 reward: 0.8979
+pass reward function
+pass reward function
+iter: 12444 mle_loss: 0.000 reward: 0.8989
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12445 mle_loss: 0.000 reward: 0.8882
+pass reward function
+pass reward function
+iter: 12446 mle_loss: 0.000 reward: 0.8971
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12447 mle_loss: 0.000 reward: 0.8938
+pass reward function
+pass reward function
+iter: 12448 mle_loss: 0.000 reward: 0.8956
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12449 mle_loss: 0.000 reward: 0.8968
+pass reward function
+pass reward function
+iter: 12450 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12451 mle_loss: 0.000 reward: 0.8920
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12452 mle_loss: 0.000 reward: 0.8910
+pass reward function
+pass reward function
+iter: 12453 mle_loss: 0.000 reward: 0.8987
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12454 mle_loss: 0.000 reward: 0.8957
+pass reward function
+pass reward function
+iter: 12455 mle_loss: 0.000 reward: 0.8996
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12456 mle_loss: 0.000 reward: 0.8988
+pass reward function
+pass reward function
+iter: 12457 mle_loss: 0.000 reward: 0.8942
+pass reward function
+pass reward function
+iter: 12458 mle_loss: 0.000 reward: 0.8949
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12459 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12460 mle_loss: 0.000 reward: 0.8988
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12461 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12462 mle_loss: 0.000 reward: 0.8972
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12463 mle_loss: 0.000 reward: 0.8916
+pass reward function
+pass reward function
+iter: 12464 mle_loss: 0.000 reward: 0.8987
+pass reward function
+pass reward function
+iter: 12465 mle_loss: 0.000 reward: 0.8945
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12466 mle_loss: 0.000 reward: 0.9005
+pass reward function
+pass reward function
+iter: 12467 mle_loss: 0.000 reward: 0.8935
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12468 mle_loss: 0.000 reward: 0.8983
+pass reward function
+pass reward function
+iter: 12469 mle_loss: 0.000 reward: 0.8923
+pass reward function
+pass reward function
+iter: 12470 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12471 mle_loss: 0.000 reward: 0.8921
+pass reward function
+pass reward function
+iter: 12472 mle_loss: 0.000 reward: 0.8945
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12473 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12474 mle_loss: 0.000 reward: 0.8968
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12475 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12476 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+iter: 12477 mle_loss: 0.000 reward: 0.8948
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12478 mle_loss: 0.000 reward: 0.8966
+pass reward function
+pass reward function
+iter: 12479 mle_loss: 0.000 reward: 0.8914
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12480 mle_loss: 0.000 reward: 0.8985
+pass reward function
+pass reward function
+iter: 12481 mle_loss: 0.000 reward: 0.9015
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12482 mle_loss: 0.000 reward: 0.8977
+pass reward function
+pass reward function
+iter: 12483 mle_loss: 0.000 reward: 0.8953
+pass reward function
+pass reward function
+iter: 12484 mle_loss: 0.000 reward: 0.8998
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12485 mle_loss: 0.000 reward: 0.8956
+pass reward function
+pass reward function
+iter: 12486 mle_loss: 0.000 reward: 0.8974
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12487 mle_loss: 0.000 reward: 0.8948
+pass reward function
+pass reward function
+iter: 12488 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12489 mle_loss: 0.000 reward: 0.8933
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12490 mle_loss: 0.000 reward: 0.8979
+pass reward function
+pass reward function
+iter: 12491 mle_loss: 0.000 reward: 0.8997
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12492 mle_loss: 0.000 reward: 0.8959
+pass reward function
+pass reward function
+iter: 12493 mle_loss: 0.000 reward: 0.8929
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12494 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12495 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12496 mle_loss: 0.000 reward: 0.8960
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12497 mle_loss: 0.000 reward: 0.8955
+pass reward function
+pass reward function
+iter: 12498 mle_loss: 0.000 reward: 0.9018
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12499 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12500 mle_loss: 0.000 reward: 0.8998
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12501 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12502 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12503 mle_loss: 0.000 reward: 0.8972
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12504 mle_loss: 0.000 reward: 0.8933
+pass reward function
+pass reward function
+iter: 12505 mle_loss: 0.000 reward: 0.8961
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12506 mle_loss: 0.000 reward: 0.8906
+pass reward function
+pass reward function
+iter: 12507 mle_loss: 0.000 reward: 0.8968
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12508 mle_loss: 0.000 reward: 0.8989
+pass reward function
+pass reward function
+iter: 12509 mle_loss: 0.000 reward: 0.8944
+pass reward function
+pass reward function
+iter: 12510 mle_loss: 0.000 reward: 0.8959
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12511 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12512 mle_loss: 0.000 reward: 0.8982
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12513 mle_loss: 0.000 reward: 0.8924
+pass reward function
+pass reward function
+iter: 12514 mle_loss: 0.000 reward: 0.8969
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12515 mle_loss: 0.000 reward: 0.8910
+pass reward function
+pass reward function
+iter: 12516 mle_loss: 0.000 reward: 0.8931
+pass reward function
+pass reward function
+iter: 12517 mle_loss: 0.000 reward: 0.8931
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12518 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12519 mle_loss: 0.000 reward: 0.8951
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12520 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12521 mle_loss: 0.000 reward: 0.8968
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12522 mle_loss: 0.000 reward: 0.9006
+pass reward function
+pass reward function
+iter: 12523 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12524 mle_loss: 0.000 reward: 0.8992
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12525 mle_loss: 0.000 reward: 0.8969
+pass reward function
+pass reward function
+iter: 12526 mle_loss: 0.000 reward: 0.8884
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12527 mle_loss: 0.000 reward: 0.8915
+pass reward function
+pass reward function
+iter: 12528 mle_loss: 0.000 reward: 0.8927
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12529 mle_loss: 0.000 reward: 0.8923
+pass reward function
+pass reward function
+iter: 12530 mle_loss: 0.000 reward: 0.8983
+pass reward function
+pass reward function
+iter: 12531 mle_loss: 0.000 reward: 0.8935
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12532 mle_loss: 0.000 reward: 0.8973
+pass reward function
+pass reward function
+iter: 12533 mle_loss: 0.000 reward: 0.8936
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12534 mle_loss: 0.000 reward: 0.9004
+pass reward function
+pass reward function
+iter: 12535 mle_loss: 0.000 reward: 0.8918
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12536 mle_loss: 0.000 reward: 0.8963
+pass reward function
+pass reward function
+iter: 12537 mle_loss: 0.000 reward: 0.8984
+pass reward function
+pass reward function
+iter: 12538 mle_loss: 0.000 reward: 0.8950
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12539 mle_loss: 0.000 reward: 0.8921
+pass reward function
+pass reward function
+iter: 12540 mle_loss: 0.000 reward: 0.8969
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12541 mle_loss: 0.000 reward: 0.8972
+pass reward function
+pass reward function
+iter: 12542 mle_loss: 0.000 reward: 0.8984
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12543 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12544 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12545 mle_loss: 0.000 reward: 0.8952
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12546 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12547 mle_loss: 0.000 reward: 0.8995
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12548 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12549 mle_loss: 0.000 reward: 0.8932
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12550 mle_loss: 0.000 reward: 0.8995
+pass reward function
+pass reward function
+iter: 12551 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12552 mle_loss: 0.000 reward: 0.8891
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12553 mle_loss: 0.000 reward: 0.8969
+pass reward function
+pass reward function
+iter: 12554 mle_loss: 0.000 reward: 0.8947
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12555 mle_loss: 0.000 reward: 0.8948
+pass reward function
+pass reward function
+iter: 12556 mle_loss: 0.000 reward: 0.8938
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12557 mle_loss: 0.000 reward: 0.8959
+pass reward function
+pass reward function
+iter: 12558 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12559 mle_loss: 0.000 reward: 0.9009
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12560 mle_loss: 0.000 reward: 0.8948
+pass reward function
+pass reward function
+iter: 12561 mle_loss: 0.000 reward: 0.8970
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12562 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12563 mle_loss: 0.000 reward: 0.8899
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12564 mle_loss: 0.000 reward: 0.8934
+pass reward function
+pass reward function
+iter: 12565 mle_loss: 0.000 reward: 0.8989
+pass reward function
+pass reward function
+iter: 12566 mle_loss: 0.000 reward: 0.8937
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12567 mle_loss: 0.000 reward: 0.8928
+pass reward function
+pass reward function
+iter: 12568 mle_loss: 0.000 reward: 0.8945
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12569 mle_loss: 0.000 reward: 0.8925
+pass reward function
+pass reward function
+iter: 12570 mle_loss: 0.000 reward: 0.9004
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12571 mle_loss: 0.000 reward: 0.8973
+pass reward function
+pass reward function
+iter: 12572 mle_loss: 0.000 reward: 0.8985
+pass reward function
+pass reward function
+iter: 12573 mle_loss: 0.000 reward: 0.8984
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12574 mle_loss: 0.000 reward: 0.8953
+pass reward function
+pass reward function
+iter: 12575 mle_loss: 0.000 reward: 0.8999
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12576 mle_loss: 0.000 reward: 0.8959
+pass reward function
+pass reward function
+iter: 12577 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12578 mle_loss: 0.000 reward: 0.8981
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12579 mle_loss: 0.000 reward: 0.9005
+pass reward function
+pass reward function
+iter: 12580 mle_loss: 0.000 reward: 0.8935
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12581 mle_loss: 0.000 reward: 0.8980
+pass reward function
+pass reward function
+iter: 12582 mle_loss: 0.000 reward: 0.8967
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12583 mle_loss: 0.000 reward: 0.8990
+pass reward function
+pass reward function
+iter: 12584 mle_loss: 0.000 reward: 0.8992
+pass reward function
+pass reward function
+iter: 12585 mle_loss: 0.000 reward: 0.8996
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12586 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12587 mle_loss: 0.000 reward: 0.8993
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12588 mle_loss: 0.000 reward: 0.8944
+pass reward function
+pass reward function
+iter: 12589 mle_loss: 0.000 reward: 0.8959
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12590 mle_loss: 0.000 reward: 0.8977
+pass reward function
+pass reward function
+iter: 12591 mle_loss: 0.000 reward: 0.8932
+pass reward function
+pass reward function
+iter: 12592 mle_loss: 0.000 reward: 0.8947
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12593 mle_loss: 0.000 reward: 0.8971
+pass reward function
+pass reward function
+iter: 12594 mle_loss: 0.000 reward: 0.8979
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12595 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12596 mle_loss: 0.000 reward: 0.8971
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12597 mle_loss: 0.000 reward: 0.8950
+pass reward function
+pass reward function
+iter: 12598 mle_loss: 0.000 reward: 0.8998
+pass reward function
+pass reward function
+iter: 12599 mle_loss: 0.000 reward: 0.9020
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12600 mle_loss: 0.000 reward: 0.8931
+pass reward function
+pass reward function
+iter: 12601 mle_loss: 0.000 reward: 0.8972
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12602 mle_loss: 0.000 reward: 0.8985
+pass reward function
+pass reward function
+iter: 12603 mle_loss: 0.000 reward: 0.8901
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12604 mle_loss: 0.000 reward: 0.8958
+pass reward function
+pass reward function
+iter: 12605 mle_loss: 0.000 reward: 0.8956
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12606 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12607 mle_loss: 0.000 reward: 0.8957
+pass reward function
+pass reward function
+iter: 12608 mle_loss: 0.000 reward: 0.8915
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12609 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12610 mle_loss: 0.000 reward: 0.8961
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12611 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12612 mle_loss: 0.000 reward: 0.8961
+pass reward function
+pass reward function
+iter: 12613 mle_loss: 0.000 reward: 0.8975
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12614 mle_loss: 0.000 reward: 0.8971
+pass reward function
+pass reward function
+iter: 12615 mle_loss: 0.000 reward: 0.8951
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12616 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12617 mle_loss: 0.000 reward: 0.8971
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12618 mle_loss: 0.000 reward: 0.8918
+pass reward function
+pass reward function
+iter: 12619 mle_loss: 0.000 reward: 0.8977
+pass reward function
+pass reward function
+iter: 12620 mle_loss: 0.000 reward: 0.8930
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12621 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12622 mle_loss: 0.000 reward: 0.8992
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12623 mle_loss: 0.000 reward: 0.8940
+pass reward function
+pass reward function
+iter: 12624 mle_loss: 0.000 reward: 0.8988
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12625 mle_loss: 0.000 reward: 0.9010
+pass reward function
+pass reward function
+iter: 12626 mle_loss: 0.000 reward: 0.9028
+pass reward function
+pass reward function
+iter: 12627 mle_loss: 0.000 reward: 0.9003
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12628 mle_loss: 0.000 reward: 0.8979
+pass reward function
+pass reward function
+iter: 12629 mle_loss: 0.000 reward: 0.9004
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12630 mle_loss: 0.000 reward: 0.9009
+pass reward function
+pass reward function
+iter: 12631 mle_loss: 0.000 reward: 0.8969
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12632 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12633 mle_loss: 0.000 reward: 0.9007
+pass reward function
+pass reward function
+iter: 12634 mle_loss: 0.000 reward: 0.8933
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12635 mle_loss: 0.000 reward: 0.9033
+pass reward function
+pass reward function
+iter: 12636 mle_loss: 0.000 reward: 0.8895
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12637 mle_loss: 0.000 reward: 0.8996
+pass reward function
+pass reward function
+iter: 12638 mle_loss: 0.000 reward: 0.9014
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12639 mle_loss: 0.000 reward: 0.8953
+pass reward function
+pass reward function
+iter: 12640 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12641 mle_loss: 0.000 reward: 0.8975
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12642 mle_loss: 0.000 reward: 0.8958
+pass reward function
+pass reward function
+iter: 12643 mle_loss: 0.000 reward: 0.8956
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12644 mle_loss: 0.000 reward: 0.9014
+pass reward function
+pass reward function
+iter: 12645 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12646 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12647 mle_loss: 0.000 reward: 0.8937
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12648 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12649 mle_loss: 0.000 reward: 0.8936
+pass reward function
+pass reward function
+iter: 12650 mle_loss: 0.000 reward: 0.8952
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12651 mle_loss: 0.000 reward: 0.8992
+pass reward function
+pass reward function
+iter: 12652 mle_loss: 0.000 reward: 0.8920
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12653 mle_loss: 0.000 reward: 0.8958
+pass reward function
+pass reward function
+iter: 12654 mle_loss: 0.000 reward: 0.8934
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12655 mle_loss: 0.000 reward: 0.8949
+pass reward function
+pass reward function
+iter: 12656 mle_loss: 0.000 reward: 0.8994
+pass reward function
+pass reward function
+iter: 12657 mle_loss: 0.000 reward: 0.8978
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12658 mle_loss: 0.000 reward: 0.8992
+pass reward function
+pass reward function
+iter: 12659 mle_loss: 0.000 reward: 0.8970
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12660 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12661 mle_loss: 0.000 reward: 0.8940
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12662 mle_loss: 0.000 reward: 0.9006
+pass reward function
+pass reward function
+iter: 12663 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12664 mle_loss: 0.000 reward: 0.8947
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12665 mle_loss: 0.000 reward: 0.9000
+pass reward function
+pass reward function
+iter: 12666 mle_loss: 0.000 reward: 0.8956
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12667 mle_loss: 0.000 reward: 0.9003
+pass reward function
+pass reward function
+iter: 12668 mle_loss: 0.000 reward: 0.8953
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12669 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12670 mle_loss: 0.000 reward: 0.8980
+pass reward function
+pass reward function
+iter: 12671 mle_loss: 0.000 reward: 0.8995
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12672 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12673 mle_loss: 0.000 reward: 0.8980
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12674 mle_loss: 0.000 reward: 0.8984
+pass reward function
+pass reward function
+iter: 12675 mle_loss: 0.000 reward: 0.8970
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12676 mle_loss: 0.000 reward: 0.8983
+pass reward function
+pass reward function
+iter: 12677 mle_loss: 0.000 reward: 0.9031
+pass reward function
+pass reward function
+iter: 12678 mle_loss: 0.000 reward: 0.8947
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12679 mle_loss: 0.000 reward: 0.8928
+pass reward function
+pass reward function
+iter: 12680 mle_loss: 0.000 reward: 0.8946
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12681 mle_loss: 0.000 reward: 0.8876
+pass reward function
+pass reward function
+iter: 12682 mle_loss: 0.000 reward: 0.8993
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12683 mle_loss: 0.000 reward: 0.8997
+pass reward function
+pass reward function
+iter: 12684 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12685 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12686 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12687 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12688 mle_loss: 0.000 reward: 0.9000
+pass reward function
+pass reward function
+iter: 12689 mle_loss: 0.000 reward: 0.8952
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12690 mle_loss: 0.000 reward: 0.8965
+pass reward function
+pass reward function
+iter: 12691 mle_loss: 0.000 reward: 0.8933
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12692 mle_loss: 0.000 reward: 0.8993
+pass reward function
+pass reward function
+iter: 12693 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12694 mle_loss: 0.000 reward: 0.8942
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12695 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12696 mle_loss: 0.000 reward: 0.8949
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12697 mle_loss: 0.000 reward: 0.8957
+pass reward function
+pass reward function
+iter: 12698 mle_loss: 0.000 reward: 0.8932
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12699 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12700 mle_loss: 0.000 reward: 0.8969
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12701 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12702 mle_loss: 0.000 reward: 0.8956
+pass reward function
+pass reward function
+iter: 12703 mle_loss: 0.000 reward: 0.8956
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12704 mle_loss: 0.000 reward: 0.8942
+pass reward function
+pass reward function
+iter: 12705 mle_loss: 0.000 reward: 0.8935
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12706 mle_loss: 0.000 reward: 0.8968
+pass reward function
+pass reward function
+iter: 12707 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+iter: 12708 mle_loss: 0.000 reward: 0.9030
+pass reward function
+pass reward function
+iter: 12709 mle_loss: 0.000 reward: 0.9003
+pass reward function
+pass reward function
+iter: 12710 mle_loss: 0.000 reward: 0.9005
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12711 mle_loss: 0.000 reward: 0.8965
+pass reward function
+pass reward function
+iter: 12712 mle_loss: 0.000 reward: 0.8987
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12713 mle_loss: 0.000 reward: 0.8976
+pass reward function
+pass reward function
+iter: 12714 mle_loss: 0.000 reward: 0.9004
+pass reward function
+pass reward function
+iter: 12715 mle_loss: 0.000 reward: 0.8986
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12716 mle_loss: 0.000 reward: 0.8977
+pass reward function
+pass reward function
+iter: 12717 mle_loss: 0.000 reward: 0.9011
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12718 mle_loss: 0.000 reward: 0.8984
+pass reward function
+pass reward function
+iter: 12719 mle_loss: 0.000 reward: 0.8925
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12720 mle_loss: 0.000 reward: 0.9006
+pass reward function
+pass reward function
+iter: 12721 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12722 mle_loss: 0.000 reward: 0.8956
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12723 mle_loss: 0.000 reward: 0.8988
+pass reward function
+pass reward function
+iter: 12724 mle_loss: 0.000 reward: 0.8962
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12725 mle_loss: 0.000 reward: 0.8981
+pass reward function
+pass reward function
+iter: 12726 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12727 mle_loss: 0.000 reward: 0.8984
+pass reward function
+pass reward function
+iter: 12728 mle_loss: 0.000 reward: 0.8929
+pass reward function
+pass reward function
+iter: 12729 mle_loss: 0.000 reward: 0.8960
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12730 mle_loss: 0.000 reward: 0.8963
+pass reward function
+pass reward function
+iter: 12731 mle_loss: 0.000 reward: 0.8968
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12732 mle_loss: 0.000 reward: 0.8995
+pass reward function
+pass reward function
+iter: 12733 mle_loss: 0.000 reward: 0.8970
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12734 mle_loss: 0.000 reward: 0.8992
+pass reward function
+pass reward function
+iter: 12735 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12736 mle_loss: 0.000 reward: 0.8944
+pass reward function
+pass reward function
+iter: 12737 mle_loss: 0.000 reward: 0.8971
+pass reward function
+pass reward function
+iter: 12738 mle_loss: 0.000 reward: 0.8973
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12739 mle_loss: 0.000 reward: 0.8946
+pass reward function
+pass reward function
+iter: 12740 mle_loss: 0.000 reward: 0.9011
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12741 mle_loss: 0.000 reward: 0.8914
+pass reward function
+pass reward function
+iter: 12742 mle_loss: 0.000 reward: 0.8946
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12743 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12744 mle_loss: 0.000 reward: 0.9018
+pass reward function
+pass reward function
+iter: 12745 mle_loss: 0.000 reward: 0.8999
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12746 mle_loss: 0.000 reward: 0.8965
+pass reward function
+pass reward function
+iter: 12747 mle_loss: 0.000 reward: 0.8968
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12748 mle_loss: 0.000 reward: 0.8983
+pass reward function
+pass reward function
+iter: 12749 mle_loss: 0.000 reward: 0.8925
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12750 mle_loss: 0.000 reward: 0.8936
+pass reward function
+pass reward function
+iter: 12751 mle_loss: 0.000 reward: 0.8927
+pass reward function
+pass reward function
+iter: 12752 mle_loss: 0.000 reward: 0.8942
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12753 mle_loss: 0.000 reward: 0.8959
+pass reward function
+pass reward function
+iter: 12754 mle_loss: 0.000 reward: 0.8936
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12755 mle_loss: 0.000 reward: 0.8937
+pass reward function
+pass reward function
+iter: 12756 mle_loss: 0.000 reward: 0.8975
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12757 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12758 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12759 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12760 mle_loss: 0.000 reward: 0.9011
+pass reward function
+pass reward function
+iter: 12761 mle_loss: 0.000 reward: 0.9015
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12762 mle_loss: 0.000 reward: 0.8994
+pass reward function
+pass reward function
+iter: 12763 mle_loss: 0.000 reward: 0.9000
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12764 mle_loss: 0.000 reward: 0.8954
+pass reward function
+pass reward function
+iter: 12765 mle_loss: 0.000 reward: 0.8917
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12766 mle_loss: 0.000 reward: 0.8980
+pass reward function
+pass reward function
+iter: 12767 mle_loss: 0.000 reward: 0.8965
+pass reward function
+pass reward function
+iter: 12768 mle_loss: 0.000 reward: 0.8950
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12769 mle_loss: 0.000 reward: 0.8897
+pass reward function
+pass reward function
+iter: 12770 mle_loss: 0.000 reward: 0.8992
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12771 mle_loss: 0.000 reward: 0.8975
+pass reward function
+pass reward function
+iter: 12772 mle_loss: 0.000 reward: 0.8953
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12773 mle_loss: 0.000 reward: 0.8987
+pass reward function
+pass reward function
+iter: 12774 mle_loss: 0.000 reward: 0.8962
+pass reward function
+pass reward function
+iter: 12775 mle_loss: 0.000 reward: 0.8953
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12776 mle_loss: 0.000 reward: 0.8980
+pass reward function
+pass reward function
+iter: 12777 mle_loss: 0.000 reward: 0.8959
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12778 mle_loss: 0.000 reward: 0.8972
+pass reward function
+pass reward function
+iter: 12779 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12780 mle_loss: 0.000 reward: 0.8930
+pass reward function
+pass reward function
+iter: 12781 mle_loss: 0.000 reward: 0.9002
+pass reward function
+pass reward function
+iter: 12782 mle_loss: 0.000 reward: 0.8988
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12783 mle_loss: 0.000 reward: 0.8955
+pass reward function
+pass reward function
+iter: 12784 mle_loss: 0.000 reward: 0.8943
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12785 mle_loss: 0.000 reward: 0.8976
+pass reward function
+pass reward function
+iter: 12786 mle_loss: 0.000 reward: 0.8942
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12787 mle_loss: 0.000 reward: 0.8979
+pass reward function
+pass reward function
+iter: 12788 mle_loss: 0.000 reward: 0.8963
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12789 mle_loss: 0.000 reward: 0.8941
+pass reward function
+pass reward function
+iter: 12790 mle_loss: 0.000 reward: 0.8996
+pass reward function
+pass reward function
+iter: 12791 mle_loss: 0.000 reward: 0.9008
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12792 mle_loss: 0.000 reward: 0.8991
+pass reward function
+pass reward function
+iter: 12793 mle_loss: 0.000 reward: 0.8948
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12794 mle_loss: 0.000 reward: 0.8938
+pass reward function
+pass reward function
+iter: 12795 mle_loss: 0.000 reward: 0.8965
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12796 mle_loss: 0.000 reward: 0.8967
+pass reward function
+pass reward function
+iter: 12797 mle_loss: 0.000 reward: 0.8958
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12798 mle_loss: 0.000 reward: 0.8995
+pass reward function
+pass reward function
+iter: 12799 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12800 mle_loss: 0.000 reward: 0.8955
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12801 mle_loss: 0.000 reward: 0.8974
+pass reward function
+pass reward function
+iter: 12802 mle_loss: 0.000 reward: 0.8972
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12803 mle_loss: 0.000 reward: 0.9005
+pass reward function
+pass reward function
+iter: 12804 mle_loss: 0.000 reward: 0.8984
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12805 mle_loss: 0.000 reward: 0.9007
+pass reward function
+pass reward function
+iter: 12806 mle_loss: 0.000 reward: 0.8963
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12807 mle_loss: 0.000 reward: 0.9022
+pass reward function
+pass reward function
+iter: 12808 mle_loss: 0.000 reward: 0.8992
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12809 mle_loss: 0.000 reward: 0.8997
+pass reward function
+pass reward function
+iter: 12810 mle_loss: 0.000 reward: 0.8991
+pass reward function
+pass reward function
+iter: 12811 mle_loss: 0.000 reward: 0.8990
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12812 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12813 mle_loss: 0.000 reward: 0.8973
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12814 mle_loss: 0.000 reward: 0.8964
+pass reward function
+pass reward function
+iter: 12815 mle_loss: 0.000 reward: 0.8998
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12816 mle_loss: 0.000 reward: 0.8979
+pass reward function
+pass reward function
+iter: 12817 mle_loss: 0.000 reward: 0.8982
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12818 mle_loss: 0.000 reward: 0.8986
+pass reward function
+pass reward function
+iter: 12819 mle_loss: 0.000 reward: 0.8991
+pass reward function
+pass reward function
+iter: 12820 mle_loss: 0.000 reward: 0.8991
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12821 mle_loss: 0.000 reward: 0.8989
+pass reward function
+pass reward function
+iter: 12822 mle_loss: 0.000 reward: 0.8964
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12823 mle_loss: 0.000 reward: 0.8944
+pass reward function
+pass reward function
+iter: 12824 mle_loss: 0.000 reward: 0.9003
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12825 mle_loss: 0.000 reward: 0.8966
+pass reward function
+pass reward function
+iter: 12826 mle_loss: 0.000 reward: 0.8915
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12827 mle_loss: 0.000 reward: 0.8951
+pass reward function
+pass reward function
+iter: 12828 mle_loss: 0.000 reward: 0.9002
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12829 mle_loss: 0.000 reward: 0.8960
+pass reward function
+pass reward function
+iter: 12830 mle_loss: 0.000 reward: 0.8999
+pass reward function
+pass reward function
+iter: 12831 mle_loss: 0.000 reward: 0.9044
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12832 mle_loss: 0.000 reward: 0.8982
+pass reward function
+pass reward function
+iter: 12833 mle_loss: 0.000 reward: 0.8955
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12834 mle_loss: 0.000 reward: 0.8913
+pass reward function
+pass reward function
+iter: 12835 mle_loss: 0.000 reward: 0.8975
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12836 mle_loss: 0.000 reward: 0.8923
+pass reward function
+pass reward function
+iter: 12837 mle_loss: 0.000 reward: 0.8961
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12838 mle_loss: 0.000 reward: 0.8990
+pass reward function
+pass reward function
+iter: 12839 mle_loss: 0.000 reward: 0.8976
+pass reward function
+pass reward function
+iter: 12840 mle_loss: 0.000 reward: 0.8958
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12841 mle_loss: 0.000 reward: 0.8956
+pass reward function
+pass reward function
+iter: 12842 mle_loss: 0.000 reward: 0.9003
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12843 mle_loss: 0.000 reward: 0.8983
+pass reward function
+pass reward function
+iter: 12844 mle_loss: 0.000 reward: 0.8969
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12845 mle_loss: 0.000 reward: 0.9008
+pass reward function
+pass reward function
+iter: 12846 mle_loss: 0.000 reward: 0.8999
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12847 mle_loss: 0.000 reward: 0.8943
+pass reward function
+pass reward function
+iter: 12848 mle_loss: 0.000 reward: 0.8981
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12849 mle_loss: 0.000 reward: 0.8917
+pass reward function
+pass reward function
+iter: 12850 mle_loss: 0.000 reward: 0.9015
+pass reward function
+pass reward function
+iter: 12851 mle_loss: 0.000 reward: 0.8980
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12852 mle_loss: 0.000 reward: 0.8968
+pass reward function
+pass reward function
+iter: 12853 mle_loss: 0.000 reward: 0.8944
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12854 mle_loss: 0.000 reward: 0.8945
+pass reward function
+pass reward function
+iter: 12855 mle_loss: 0.000 reward: 0.8935
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12856 mle_loss: 0.000 reward: 0.8986
+pass reward function
+pass reward function
+iter: 12857 mle_loss: 0.000 reward: 0.8903
+pass reward function
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+iter: 12858 mle_loss: 0.000 reward: 0.8933
+pass reward function
+pass reward function
+iter: 12859 mle_loss: 0.000 reward: 0.8887
+pass reward function
+pass reward function
+iter: 12860 mle_loss: 0.000 reward: 0.8919
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12861 mle_loss: 0.000 reward: 0.8978
+pass reward function
+pass reward function
+iter: 12862 mle_loss: 0.000 reward: 0.8941
+INFO:tensorflow:Bucket queue size: 100, Input queue size: 5000
+pass reward function
+pass reward function
+iter: 12863 mle_loss: 0.000 reward: 0.8964
+---------------------------------------------------------------------------
+RuntimeError                              Traceback (most recent call last)
+<ipython-input-12-9d1824131706> in <module>()
+     14 
+     15     train_processor = Train(opt)
+---> 16     train_processor.trainIters()
+
+16 frames
+/usr/local/lib/python3.6/dist-packages/transformers/modeling_bert.py in forward(self, hidden_states, attention_mask, head_mask, encoder_hidden_states, encoder_attention_mask)
+    233         # Take the dot product between "query" and "key" to get the raw attention scores.
+    234         attention_scores = torch.matmul(query_layer, key_layer.transpose(-1, -2))
+--> 235         attention_scores = attention_scores / math.sqrt(self.attention_head_size)
+    236         if attention_mask is not None:
+    237             # Apply the attention mask is (precomputed for all layers in BertModel forward() function)
+
+RuntimeError: CUDA out of memory. Tried to allocate 800.00 MiB (GPU 0; 15.90 GiB total capacity; 13.40 GiB already allocated; 777.88 MiB free; 14.44 GiB reserved in total by PyTorch)
