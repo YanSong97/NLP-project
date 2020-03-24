@@ -1,0 +1,49 @@
+#### Gigaword
+
+> Give scores from 1-10 for those 20 examples here:
+
+- Readability (how well written it is):
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+- Relevance (how well it does capturing important parts):
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+- Overall:
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+
+
+
+#### CNN/DM
+
+- Readability (how well written it is):
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+- Relevance (how well it does capturing important parts):
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+- Overall:
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+
+
+
+#### Wikihow
+
+- Readability (how well written it is):
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+- Relevance (how well it does capturing important parts):
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
+
+- Overall:
+A: , , , , , , , , , , , , , , , , , , , ;
+B: , , , , , , , , , , , , , , , , , , , ;
