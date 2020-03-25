@@ -21,3 +21,14 @@ overall: 6.05
 readability: 7.7
 relavance: 7.35
 overall: 7.65
+
+> wikihow
+- rl(r)
+readability: 1.6
+relavance: 1.8
+overall: 1.45
+
+- rl(b)
+readability: 2.2
+relavance: 1.2
+overall: 1.4
