@@ -1,12 +1,16 @@
 # Natural Language Processing Assignment 2&3
 
-Group member: Youning, Wan Jing, Zoey, YanSong
+Group member (UCL): Youning, Wan Jing, Zoey, YanSong
 
 **Due date: Saturday, 21 March 2020, 12:05 AM**
 
 ## Coursework instruction: [Link](https://docs.google.com/document/d/1WTKNrYTr-7ckw62WAqy21-9udEMIpll4bWM5lmgpHZI/edit)
 
-## Draft report: [Overleaf](https://www.overleaf.com/project/5e4eed8fc806ef0001bfac1a)
+## Abstract:
+This paper sets out to assess the performanceof **Deep Reinforcement Learning (DRL)** based abstractive summarization models.  4 different model variants are applied on 3 datasets and evaluated on ROUGE and BERTScores. Working  on  the  novel  WikiHow  dataset  (Koupaeeand Wang, 2018) which is slightly more complex to train on has magnified the characteristics of the models.   It exposes the instability of  training  on  ROUGE-L  scores in some cases  and  suggests BERTScore as an alternative.
+
+## Saved models and data: 
+Below are the saved (pre-trained) NLP models under different training objectives and the datasets as well.
 
 -----------------------------------WikiHow-----------------------------------------------------
 
@@ -42,19 +46,6 @@ Group member: Youning, Wan Jing, Zoey, YanSong
 ## Gigaword ML trained models: [LINK](https://drive.google.com/open?id=1HFqaVSc56CFwAk7S9AT9yv29bzlZNrVA)
 ## Gigaword RL trained models: on DeepNotes.
 
-
------------------------------------Colab Notebooks-----------------------------------------------------
-
-## Some colab notebook we can run to get result:
-1.  Evaluating the ROUGE value of pre-trained model: [colab link]:(https://colab.research.google.com/drive/18760SaQrzpqKx-STIVp_kk2ZXzOPNDW-)  (Done by Zoey)
-
-2. Continue training the ML model using the same pre-trained model: [colab link](https://colab.research.google.com/drive/1fZ-tlDHAyU0tL3va5VNeXBp4A2d1t0d3)  (Done by Wangjing)    [Trained ML models](https://drive.google.com/open?id=1YhW8qKTnllwA_ND46-3vHtRxdChym8W9)
-
-3. continue training RL on gigaword dataset [colab link](https://colab.research.google.com/drive/1X2Drxf1RKasp_G30qSSgM5iw0hPQmoKK)  (Done)
-
-4.  Continue ML training on CNN/DM dataset [colab link](https://colab.research.google.com/drive/1T7yKZ4fYtI5s7OnZdUu5BWNaeQ__OdCH) (to do RL or RL+ML only a few modification is needed)
-
-5.  Validation of ML+RL model on CNN/DM dataset [colab link](https://colab.research.google.com/drive/17azNgOjASVXwfaGWLJPOJfy9cfeU3lAU), the models are in [link](https://drive.google.com/drive/folders/1WuESSVflSyt92G28yu0pfEzlksxRgOt3?usp=sharing), the cnn/dm dataset are Youning's version stated above.
 
 
 
