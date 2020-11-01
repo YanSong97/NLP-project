@@ -9,6 +9,15 @@ Group member (UCL): Youning, Wan Jing, Zoey, YanSong
 ## Abstract:
 This paper sets out to assess the performanceof **Deep Reinforcement Learning (DRL)** based abstractive summarization models.  4 different model variants are applied on 3 datasets and evaluated on ROUGE and BERTScores. Working  on  the  novel  WikiHow  dataset  (Koupaeeand Wang, 2018) which is slightly more complex to train on has magnified the characteristics of the models.   It exposes the instability of  training  on  ROUGE-L  scores in some cases  and  suggests BERTScore as an alternative.
 
+## Report and code link : [LINK](https://github.com/YanSong97/NLP-project/tree/master/src)
+The report is written in a ACL format. The code is mostly implemented in *Pytorch*. Meanwhile, it also requires the evaluation metric packages:
+* [ROUGE](https://github.com/pltrdy/rouge)
+* [BERTScore](https://github.com/Tiiiger/bert_score)
+
+
+
+
+
 ## Saved models and data: 
 Below are the saved (pre-trained) NLP models under different training objectives and the datasets as well.
 
