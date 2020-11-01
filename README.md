@@ -23,37 +23,37 @@ Below are the saved (pre-trained) NLP models under different training objectives
 
 -----------------------------------WikiHow-----------------------------------------------------
 
-## WikiHow data pre_trained model (ML for 10,000 iterations): [LINK](https://drive.google.com/drive/folders/1Yg5z4ixRVj-AZK2F7qXULb6YzsS_OTjj?usp=sharing)
+### WikiHow data pre_trained model (ML for 10,000 iterations): [LINK](https://drive.google.com/drive/folders/1Yg5z4ixRVj-AZK2F7qXULb6YzsS_OTjj?usp=sharing)
 
-## WikiHow data files: [LINK](https://drive.google.com/drive/folders/1oaYyf3NPYYbrnJCRXt6OAb4ngAX8UsTZ?usp=sharing)
+### WikiHow data files: [LINK](https://drive.google.com/drive/folders/1oaYyf3NPYYbrnJCRXt6OAb4ngAX8UsTZ?usp=sharing)
 
-## WikiHow RL training models:  [LINK](https://drive.google.com/drive/folders/1gPPBGrYQkGd06kcCkJ-TdCtilFPPPkGv?usp=sharing)
+### WikiHow RL training models:  [LINK](https://drive.google.com/drive/folders/1gPPBGrYQkGd06kcCkJ-TdCtilFPPPkGv?usp=sharing)
 
-## BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
+### BERTScore: [LINK](https://github.com/Tiiiger/bert_score/blob/master/example/Demo.ipynb)
 
 -----------------------------------CNN/DM-----------------------------------------------------
 
-## CNN train/valid/test/vocab files (Mike):  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
+### CNN train/valid/test/vocab files (Mike):  [LINK](https://drive.google.com/drive/folders/1lElh4nhI0jgoOH-vfZU4sI2_weIflCTR?usp=sharing)
 
-## CNN/DailyMail train/valid/test/vocab files (Youning)(including pre-trained models) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
+### CNN/DailyMail train/valid/test/vocab files (Youning)(including pre-trained models) : [LINK](https://drive.google.com/drive/folders/14ToLlQlZs_Sl47bG_E07bGzkn3CdTwO7?usp=sharing) 
 
-## Pre-trained Model Colab(Youning): [LINK](https://colab.research.google.com/drive/1cwoFYT-IsxfUlCZwXG2W6Neizk_ZyY4V)
+### Pre-trained Model Colab(Youning): [LINK](https://colab.research.google.com/drive/1cwoFYT-IsxfUlCZwXG2W6Neizk_ZyY4V)
 
-## CNN ML trained models(Zoey): [folder link](https://drive.google.com/drive/folders/155ldJSInimq06Xo7cdhkfCeSI8QNypem?usp=sharing)
+### CNN ML trained models(Zoey): [folder link](https://drive.google.com/drive/folders/155ldJSInimq06Xo7cdhkfCeSI8QNypem?usp=sharing)
 
-## CNN RL(r) trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing)
+### CNN RL(r) trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1j1GKlRhX3VtkKEnKINtM3IpU3QkIFk_3?usp=sharing)
 
-## CNN RL+ML trained models(YS): [folder link](https://drive.google.com/drive/folders/1WuESSVflSyt92G28yu0pfEzlksxRgOt3?usp=sharing)
+### CNN RL+ML trained models(YS): [folder link](https://drive.google.com/drive/folders/1WuESSVflSyt92G28yu0pfEzlksxRgOt3?usp=sharing)
 
-## CNN RL(b) trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1HeF2NOK8u9b9a1Q-bZS6lNvliPGlQApc?usp=sharing)
+### CNN RL(b) trained models(Zoey): [folder link](https://drive.google.com/drive/folders/1HeF2NOK8u9b9a1Q-bZS6lNvliPGlQApc?usp=sharing)
 
 -----------------------------------Gigaword-----------------------------------------------------
 
-## Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/1tEiDx77a9Tf6AA8vYHC6t2tIF966Uj2f/view?usp=sharing)
-## Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
-## Gigaword ML+RL trained models: [LINK](https://drive.google.com/drive/folders/16u6iaVKmSg636V1VlVHIAxiy0b17svDb?usp=sharing)
-## Gigaword ML trained models: [LINK](https://drive.google.com/open?id=1HFqaVSc56CFwAk7S9AT9yv29bzlZNrVA)
-## Gigaword RL trained models: on DeepNotes.
+### Gigaword pre-trained model (ML): [LINK](https://drive.google.com/file/d/1tEiDx77a9Tf6AA8vYHC6t2tIF966Uj2f/view?usp=sharing)
+### Gigaword data: [LINK](https://drive.google.com/open?id=1se96ql8HQx1Sg1EiJ66NchqH2BWm3vEM)
+### Gigaword ML+RL trained models: [LINK](https://drive.google.com/drive/folders/16u6iaVKmSg636V1VlVHIAxiy0b17svDb?usp=sharing)
+### Gigaword ML trained models: [LINK](https://drive.google.com/open?id=1HFqaVSc56CFwAk7S9AT9yv29bzlZNrVA)
+### Gigaword RL trained models: on DeepNotes.
 
 
 
