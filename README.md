@@ -20,7 +20,7 @@ This paper sets out to assess the performanceof **Deep Reinforcement Learning (D
 
 ## Model implemented:
 
-The model is a encoder-decoder LSTM network with attention mechanism applied on both encoder and decoder, also the pointer network (https://arxiv.org/abs/1602.06023) is included. The schemetic model plot is shown as:
+The model is an encoder-decoder LSTM network with attention mechanism applied on both encoder and decoder, also the pointer network (https://arxiv.org/abs/1602.06023) is included. The schemetic model plot is shown as:
 
 
 <img src="https://github.com/YanSong97/NLP-project/blob/master/plots/model%20graph.png" width="700" height="400" />
