@@ -4,15 +4,40 @@ Group member (UCL): Youning, Wan Jing, Zoey, YanSong
 
 **Due date: Saturday, 21 March 2020, 12:05 AM**
 
-## Coursework instruction: [Link](https://docs.google.com/document/d/1WTKNrYTr-7ckw62WAqy21-9udEMIpll4bWM5lmgpHZI/edit)
-
-## Abstract:
-This paper sets out to assess the performanceof **Deep Reinforcement Learning (DRL)** based abstractive summarization models.  4 different model variants are applied on 3 datasets and evaluated on ROUGE and BERTScores. Working  on  the  novel  WikiHow  dataset  (Koupaeeand Wang, 2018) which is slightly more complex to train on has magnified the characteristics of the models.   It exposes the instability of  training  on  ROUGE-L  scores in some cases  and  suggests BERTScore as an alternative.
 
 ## Report and code link : [LINK](https://github.com/YanSong97/NLP-project/tree/master/src)
 The report is written in a ACL format. The code is mostly implemented in *Pytorch*. Meanwhile, it also requires the evaluation metric packages:
 * [ROUGE](https://github.com/pltrdy/rouge)
 * [BERTScore](https://github.com/Tiiiger/bert_score)
+
+
+
+## Coursework instruction: [Link](https://docs.google.com/document/d/1WTKNrYTr-7ckw62WAqy21-9udEMIpll4bWM5lmgpHZI/edit)
+
+## Abstract:
+This paper sets out to assess the performanceof **Deep Reinforcement Learning (DRL)** based abstractive summarization models.  4 different model variants are applied on 3 datasets: CNN/Daily Mail, Gigaword and WikiHow, with ROUGE and BERTScores evaluated. Working  on  the  novel  WikiHow  dataset which is slightly more complex to train on has magnified the characteristics of the models.   It exposes the instability of  training  on  ROUGE-L  scores in some cases  and  suggests BERTScore as an alternative.
+
+
+## Model implemented:
+
+The model is a encoder-decoder LSTM network with attention mechanism applied on both encoder and decoder, also the pointer network (https://arxiv.org/abs/1602.06023) is included. The schemetic model plot is shown as:
+
+
+<img src="https://github.com/YanSong97/NLP-project/blob/master/plots/model%20graph.png" width="700" height="400" />
+
+## Model training objective:
+What distinguishes between different model variants is the training objective. We have tried four types:
+
+* Maximum likelihood (ML): this is to maximise the log-probability of obtaining the correct outputs
+
+* Reinforcement learning (RL) with ROUGE reward: this is analogous to the REINFORCE algorithm in policy gradient method where the objective is to maximise the probability of obtaining the highest ROUGE score. Different from ML, now we directly optimise the model w.r.t the evaluation metric and it is expected that it will have higher testing score
+
+* RL with BERScore reward: same as previous one but with different reward
+
+* Hybrid (ML+RL) objective : this is combining the objective function of ML and RL.
+
+
+
 
 
 
